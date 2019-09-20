@@ -13,9 +13,9 @@ buttons:
       external_url: false
     - icon: 
       content: Piazza
-      url: 'https://piazza.com/class/jtknb0phre45ev'
+      url: ' '
       external_url: true
-    - icon: 
+    - icon:  
       content: Lecture videos (Canvas)
       url: 'https://canvas.stanford.edu/courses/100571/external_tools/3367'
       external_url: true
@@ -35,32 +35,15 @@ author:
 
 ## Course Information
 
-- This quarter (Spring 2019), CS230 meets for in-class lecture Tue 9:00 AM - 10:20 AM, NVIDIA Auditorium.
-- All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jtknb0phre45ev). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
+- This quarter (Fall 2019), CS230 meets for in-class lecture Tue 9:00 AM - 10:20 AM, NVIDIA Auditorium.
+- All class communication happens on the [CS230 Piazza forum]({{ site.course.piazza }}). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [syllabus](/syllabus).
 
-
-## Course Staff
-{% include instructor.html name="Andrew Ng<br>(Instructor)" link="https://www.andrewng.org/" image="andrew.jpg" %} {% include instructor.html name="Kian Katanforoosh<br>(Instructor)" link="https://www.linkedin.com/in/kiankatan/" image="kian.jpg" %}
-{% include instructor.html name="Swati Dube<br>(Coordinator)" link="http://www.linkedin.com/in/swatidube/" image="swati.jpg"%}
-{% include instructor.html name="Younes Mourri<br>(Course Advisor)" link="https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9/" image="younes.jpg"%}
-{% include instructor.html name="Aarti Bagul<br>(Head TA)" link="https://www.linkedin.com/in/aartibagul" image="aarti.jpg" %}
-
-
-#### On Campus Course Assistants
-{% include instructor.html name="Steven Chen" link="http://www.stevenzc.com/" image="steven.jpg" %}
-{% include instructor.html name="Patrick Cho" link="https://www.linkedin.com/in/patrickchochungting/" image="patrick.jpg" %}
-{% include instructor.html name="Ahmad Momeni" link="https://www.linkedin.com/in/ahmadreza-momeni-07a75589" image="ahmad.jpg" %}
-{% include instructor.html name="Sarah Najmark" link="https://www.linkedin.com/in/sarah-najmark-706b80131/" image="sarah.jpg" %}
-{% include instructor.html name="Suvadip Paul" link="https://www.linkedin.com/in/suvadippaul" image="suvadip.jpg" %}
-{% include instructor.html name="Hoormazd Rezaei" link="https://www.linkedin.com/in/hoormazd-rezaei/" image="hoormazd.jpg" %}
-{% include instructor.html name="Ashwin Sreenivas" link="https://www.linkedin.com/in/sreenivasashwin/" image="ashwin.png" %}
-{% include instructor.html name="Tugce Tasci" link="https://www.linkedin.com/in/tugcetasci/" image="tugce.png" %}
-{% include instructor.html name="Jay Whang" link="http://jaywhang.com" image="jay.jpg" %}
-{% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}
+<!-- Course Staff --> 
+{% include staff.html %}
 
 ## Logistics
-All course announcements take place through the [class Piazza forum](https://piazza.com/class/jtknb0phre45ev). Please make sure to join!
+All course announcements take place through the [class Piazza forum]({{ site.course.piazza }}). Please make sure to join!
 #### Class components
 
 CS230 has the following components:

@@ -1,3 +1,8 @@
+# Temporary GitPage Host setup
+title: CS230 Deep Learning
+baseurl: "/cs230-2019-fall"
+repository: "haossr/cs230-2019-fall"
+
 # Theme settings
 doks:
     baseurl: "//cs230.stanford.edu"
@@ -47,3 +52,30 @@ layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md', 'scripts']
 permalink: /:title/
+
+# Course logistics
+course: 
+    piazza: 'https://piazza.com/class/k0rhx3vr6my26c' 
+    canvas: ''
+    staff:
+        - name: Andrew Ng
+          type: Instructor
+          url: https://www.andrewng.org/
+          image: andrew.jpg 
+        - name: Kian Katanforoosh
+          type: Instructor
+          url: https://www.linkedin.com/in/kiankatan/
+          image: kian.jpg
+        - name: Swati Dube 
+          type: Coordinator 
+          url: http://www.linkedin.com/in/swatidube/
+          image: swati.jpg
+        - name: Younes Mourri
+          type: Course Advisor
+          url: https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9/
+          image: younes.jpg
+        - name: Hao Sheng
+          type: Head TA
+          url: https://www.hsheng.org/
+          image: hao.png
+

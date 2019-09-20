@@ -1,0 +1,13 @@
+## Course Staff
+{% for people in site.course.staff %}
+<div class="instructor">
+	<a href="{{ people.link }}">
+            <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+            <div style="text-align:center;">{{ people.name }}<br>{{ people.type }}</div>
+	</a>
+</div>
+{% endfor%}
+
+#### On Campus Course Assistants
+
+
