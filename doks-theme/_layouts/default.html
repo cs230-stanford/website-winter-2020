@@ -31,7 +31,8 @@
 										</a>
 									{% endif %}
 								{% endif %}
-								{% for button in page.buttons %}
+								{% for button_tag in page.buttons %}
+                                                                        {% assign button = site.course.links[button_tag] %}
 									{% if button.external_url == true %}
 									<a href="{{ button.url | flatify }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}

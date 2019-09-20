@@ -1,19 +1,12 @@
 ---
-# Page settings
 layout: default
-keywords:
 comments: false
+keywords:
 
-# Hero section
 title: Syllabus
 description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are usually due every Tuesday, 30min before the class starts.
 buttons:
-
-
-
-# Micro navigation
 micro_nav: false
-
 ---
 
 <table id="schedule" class="table table-bordered no-more-tables" style="width: 100%; font-size: 0.8em;">

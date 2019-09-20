@@ -1,22 +1,12 @@
 ---
-# Page settings
 layout: default
 keywords:
 comments: false
 
-# Hero section
 title: Project
 description: One of CS230's main goals is to prepare you to apply machine learning algorithms to real-world tasks, or to leave you well-qualified to start machine learning or AI research. The final project is intended to start you in these directions.
-buttons:
-    - icon: 
-      content: Past Projects
-      url: /past-projects
-      external_url: false
-
-
-# Micro navigation
+buttons: [past-projects]
 micro_nav: true
-
 ---
 
 # Getting Started

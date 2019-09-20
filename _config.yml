@@ -60,11 +60,67 @@ course:
     quarter: 2019 Fall 
     time: Tue 9:00 AM - 10:20 AM  
     venue: NVIDIA Auditorium
-    piazza: 'https://piazza.com/class/k0rhx3vr6my26c' 
+    piazza: &pz 'https://piazza.com/class/k0rhx3vr6my26c' 
     queuestatus: 
-        url: 'https://queuestatus.com/queues/515'
+        url: &qs 'https://queuestatus.com/queues/515'
         name: 'CS230 (2019 Fall)' 
     canvas: ''
+    links:
+        syllabus:
+            icon: 
+            content: Syllabus
+            url: '/syllabus'
+            external_url: false
+        past-projects:
+            icon:
+            content: Past Projects
+            url: '/past-projects'
+            external_url: false
+        project-2018-win:
+            icon:
+            content: Winter 2018
+            url: '/past-projects/#winter-2018'
+            external_url: false
+        project-2018-spr:
+            icon:
+            content: Spring 2018
+            url: '/past-projects/#spring-2018'
+            external_url: false
+        project-2018-fall:
+            icon:
+            content: Fall 2018
+            url: '/past-projects/#fall-2018'
+            external_url: false
+        project-2019-win:
+            icon:
+            content: Winter 2019
+            url: '/past-projects/#winter-2019'
+            external_url: false
+        project-2019-spr:
+            icon:
+            content: Spring 2019
+            url: '/past-projects/#spring-2019'
+            external_url: false
+        video2018:
+            icon: 
+            content: Lecture videos (Fall 2018)
+            url: '/lecture/'
+            external_url: false 
+        piazza:
+            icon: 
+            content: Piazza
+            url: *pz
+            external_url: true
+        video:
+            icon:
+            content: Lecture videos (Canvas)
+            url: 'https://canvas.stanford.edu/courses/100571/external_tools/3367'
+            external_url: true
+        queuestatus:
+            icon:
+            content: QueueStatus
+            url: *qs
+            external_url: true
     staff:
         - name: Andrew Ng
           type: Instructor
@@ -86,5 +142,4 @@ course:
           type: Head TA
           url: https://www.hsheng.org/
           image: hao.png
-
-
+    

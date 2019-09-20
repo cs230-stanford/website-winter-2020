@@ -1,30 +1,11 @@
 ---
-# Page settings
 layout: default
 keywords:
-
-# Hero section
 title: CS230 Deep Learning
 description: Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
-buttons:
-    - icon: 
-      content: Syllabus
-      url: '/syllabus'
-      external_url: false
-    - icon: 
-      content: Piazza
-      url: '{{ site.course.piazza }}'
-      external_url: true
-    - icon:  
-      content: Lecture videos (Canvas)
-      url: 'https://canvas.stanford.edu/courses/100571/external_tools/3367'
-      external_url: true
-    - icon: 
-      content: Lecture videos (Fall 2018)
-      url: '/lecture/'
-      external_url: false
+buttons: [syllabus, piazza, video, video2018]
+micro_nav: true
 ---
-
 ## Course Information
 - This quarter ({{ site.course.quarter }}), CS230 meets for in-class lecture {{ site.course.time}}, {{ site.course.venue }}. 
 - All class communication happens on the [CS230 Piazza forum]({{ site.course.piazza }}). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.

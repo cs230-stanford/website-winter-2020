@@ -50,7 +50,11 @@ Below is a list of suggested changes for the website and content:
 Logistics:
 - [x] Update Staff information 
 - [ ] Update CA information 
-- [ ] Update QueueStatus/Calendar url; Zoom link
+- [x] Update Piazza link
+- [x] Update QueueStatus
+- [ ] Update Calendar url
+- [ ] Update Zoom link
+- [ ] Update 2019 Spr project link
 - [ ] Update Course Syllabus 
 
 General:

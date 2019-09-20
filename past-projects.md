@@ -1,36 +1,11 @@
 ---
-# Page settings
 layout: default
 keywords:
 comments: false
 
-# Hero section
 title: Past Projects
 description: One of CS230's main goals is to prepare students to apply machine learning algorithms to real-world tasks. Check out a list of our students past final project.
-buttons:
-    - icon:
-      content: Winter 2018
-      url: '/past-projects/#winter-2018'
-      external_url: false
-    - icon:
-      content: Spring 2018
-      url: '/past-projects/#spring-2018'
-      external_url: false
-    - icon:
-      content: Fall 2018
-      url: '/past-projects/#fall-2018'
-      external_url: false
-    - icon:
-      content: Winter 2019
-      url: '/past-projects/#winter-2019'
-      external_url: false
-    - icon:
-      content: Spring 2019
-      url: '/past-projects/#spring-2019'
-      external_url: false
-
-
-# Micro navigation
+buttons: [project-2018-win, project-2018-spr, project-2018-fall, project-2019-win, project-2019-spr]
 micro_nav: true
 
 ---
