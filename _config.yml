@@ -5,8 +5,9 @@ repository: "haossr/cs230-2019-fall"
 
 # Theme settings
 doks:
-    baseurl: "//cs230.stanford.edu"
-    baseurl: "//haossr.github.io/cs230-2019-fall"
+    baseurl: "https://cs230.stanford.edu"
+    url: "https://hsheng.org"
+    baseurl: "/cs230-2019-fall"
     color_theme: blue 
     header:
         logo:
