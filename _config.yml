@@ -49,6 +49,7 @@ sass:
     style: :compressed
 
 # Jekyll settings
+plugins_dir: ./_plugins
 layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md', 'scripts']
@@ -85,4 +86,5 @@ course:
           type: Head TA
           url: https://www.hsheng.org/
           image: hao.png
+
 
