@@ -7,7 +7,7 @@ repository: "haossr/cs230-2019-fall"
 doks:
     baseurl: "//cs230.stanford.edu"
     baseurl: "//haossr.github.io/cs230-2019-fall"
-    color_theme: red
+    color_theme: blue 
     header:
         logo:
             text: CS230

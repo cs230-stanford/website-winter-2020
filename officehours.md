@@ -8,7 +8,7 @@ description: Times and locations may occasionally change each week so please che
 buttons: [queuestatus]
 micro_nav: false
 ---
-
+<!--
 <div>
     <iframe src="https://calendar.google.com/calendar/embed?src=057nfq8g0iillre9qe3u870v8o%40group.calendar.google.com&ctz=America%2FLos_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
@@ -30,7 +30,6 @@ micro_nav: false
 | Jay       | 754-389-2619            |
 | Weini     | 987-188-2593            |
 
-<!---
 | Aarti  	| TBD            | 452-715-0895   |
 | Steven    | TBD            | 631-363-7785   |
 | Patrick   | TBD            | 234-847-0469   |

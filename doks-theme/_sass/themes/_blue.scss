@@ -1,0 +1,44 @@
+/**
+ * Green (themes/_blue.scss)
+ */
+
+/* ----- Hero subheader ----- */
+.blue {
+	.hero-subheader {
+	        background-color: $color-theme-blue;
+	}
+}
+
+/* ----- Nav grid ----- */
+.blue {
+	.nav-grid__item {
+		background-color: $color-theme-blue;
+
+		&:hover,
+		&:active,
+		&:focus {
+			background-color: $color-theme-blue;
+		}
+	}
+}
+
+/* ----- Section ----- */
+.blue {
+	.section--darker-theme-color-bg {
+		background-color: darken($color-theme-blue, 3%);
+	}
+}
+
+/* ----- Page nav ----- */
+.blue {
+	.page-nav {
+		background-color: $color-theme-blue;
+	}
+}
+
+/* ----- Error 404 ----- */
+.blue {
+	&.error-404 {
+		background-color: $color-theme-blue;
+	}
+}
