@@ -32,18 +32,18 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;1</td>
-            <td> 04/02 </td>
+            <td> 09/24 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
                     <li>Course details</li>
-                    <li><a href="/spring2019/cs230_lecture1.pdf">Slides</a> and <a href="/files/Notation.pdf">Class notation</a></li>
+                    <!--<li><a href="/spring2019/cs230_lecture1.pdf">Slides</a> and <a href="/files/Notation.pdf">Class notation</a></li> -->
                 </ul>
             </td>
             <td>
-                No online modules. If you are enrolled in CS230, you will receive an email on 04/01 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
+                No online modules. If you are enrolled in CS230, you will receive an email on 09/25 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
             </td>
             <td>
                 No assignments.
@@ -51,7 +51,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;2</td>
-            <td> 04/09 </td>
+            <td> 10/01 </td>
             <td>
                 <strong>Topics:</strong> Full-cycle of a deep learning project
             </td>
@@ -63,12 +63,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due 04/09 at 8:30am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
                     <li>Neural Networks Basics</li>
                 </ul>
-                <strong>Programming Assignments (due 04/09 at 8:30am)</strong>
+                <strong>Programming Assignments (due at 8:30am)</strong>
                 <ul>
                     <li>Python Basics with Numpy (Optional)</li>
                     <li>Logistic Regression with a neural network mindset</li>
@@ -82,7 +82,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td> 04/16 </td>
+            <td> 10/08 </td>
             <td>
                 <strong>Topics:</strong> Deep Learning Intuition
                 <ul>
@@ -115,16 +115,16 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Proposal Due</strong></td>
-            <td><strong>04/16<br>Tuesday<br>11:59PM</strong></td>
+            <td><strong>10/10<br>Thursday<br>11:59PM</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Lecture&nbsp;4</td>
-            <td> 04/23 </td>
+            <td> 10/15 </td>
             <td>
-                <strong>Topics:</strong>
+                <strong>Topics: Adversarial examples - GAN </strong>
                 <ul>
                     <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks<a href="/lectures/2019/winter/4.pdf"> (slides)</a></li>
                 </ul>
@@ -163,9 +163,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td> 04/30 </td>
+            <td> 10/22 </td>
             <td>
-                <strong>Topics:</strong> Deep Learning Project strategy - Case studies
+                <strong>Topics:</strong> AI and Healthcare (Guest speaker: Pranav Rajpurkar)
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -190,14 +190,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture 6</td>
-            <td>05/07</td>
+            <td>10/29</td>
             <td>
-                <strong>Topics:</strong>
-                <ul>
-                    <li>AI in Health Care (Guest speaker: Pranav Rajpurkar)</li>
-                    <li>Live-cell segmentation Case Study by Kian Katanforoosh</li>
-                    <li><a href="/spring2019/cs230_lecture6.pdf">Slides</a></li>
-                </ul>
+                <strong>Topics: DL strategy </strong>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -223,7 +218,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td>05/08</td>
+            <td>10/31</td>
             <td><strong>Past midterms:</strong>
                 <ul>
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
@@ -233,11 +228,13 @@ micro_nav: false
                 </ul>
             </td>
             <td>
+                <!--
                 <ul>
                     <li>Date & Time: May 8, 3-4pm</li>
                     <li>Location: EDUC 128</li>
                     <li><a href="/spring2019/cs230_midterm_review.pdf">Midterm Review Slides</a></li>
                 </ul>
+                -->
             </td>
         </tr>
         <tr>
@@ -247,29 +244,30 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
-            <td><strong>05/09</strong></td>
+            <td><strong>one of {10/30, 10/31, 11/01, 11/04}</strong></td>
             <td></td>
             <td>
                 <strong>Midterm</strong>
+                <!--
                 <ul>
                     <li>Date: Thursday, May 9th</li>
                     <li>Time: 6pm-9pm</li>
                     <li>Last names A-K: <a href="https://campus-map.stanford.edu/?id=07-200&lat=37.43065713&lng=-122.17143743&zoom=17&srch=stlc">STLC 111</a> </li>
                     <li>Last names L-Z: <a href="https://campus-map.stanford.edu/?id=08-350&lat=37.4292801717259&lng=-122.16731208647946&zoom=17">Bishop Auditorium</a> </li>
                 </ul>
+
+                -->
             </td>
             <td>
                 <strong>Alternate Midterm</strong><br>(Only for students with valid, approved reason)
                 <ul>
-                    <li>Date: Friday, May 10th</li>
-                    <li>Time: 6pm-9pm</li>
-                    <li>Location: TBD</li>
+                    <li>Date: TBD</li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
-            <td> 05/14 </td>
+            <td> 11/05 </td>
             <td>
                 <strong>Topics:</strong> Interpretability of Neural Network <a href="/fall2018/slides_week7.pdf">(slides)</a>
                 <br>
@@ -299,7 +297,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Milestone Due</strong></td>
-            <td><strong>Tuesday 05/14 at 11:59PM</strong></td>
+            <td><strong>11/5<br>Tuesday<br>11:59PM</strong></td>
             <td>
                 <a href="/project/#milestone">Instructions</a></td>
             <td>
@@ -313,7 +311,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 05/21 </td>
+            <td> 11/12 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -347,7 +345,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;9</td>
-            <td> 05/28 </td>
+            <td> 11/19 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -380,12 +378,12 @@ micro_nav: false
                     <li>Emojify!</li>
                     <li>Neural Machine Translation with Attention</li>
                     <li>Trigger Word Detection</li>
-                </ul>
+                </ul >
             </td>
         </tr>
         <tr>
             <td>Lecture&nbsp;10</td>
-            <td> 06/04 </td>
+            <td> 12/03 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -399,7 +397,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Final Poster and Project Report Due</strong></td>
-            <td><strong>06/09<br>11:59pm</strong></td>
+            <td><strong>12/8<br>Sunday<br>11:59PM </strong></td>
             <td>
                 Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
             </td>
@@ -410,15 +408,17 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Poster Session</strong></td>
-            <td><strong>06/10<br>Monday</strong></td>
+            <td><strong>TBD</strong></td>
             <td></td>
             <td>
                 <strong>Poster Session</strong>
+                <!--
                 <ul>
-                    <li>Date: June 10, Monday</li>
-                    <li>Time: 8:30am - 11:30am</li>
+                    <li>Date: TBD</li>
+                    <li>Time: TBD</li>
                     <li>Location: <a href="https://alumni.stanford.edu/get/page/resources/alumnicenter/directions">Alumni Center</a></li>
                 </ul>
+                -->
             </td>
             <td></td>
         </tr>
