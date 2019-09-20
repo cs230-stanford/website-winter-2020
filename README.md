@@ -8,7 +8,8 @@ This repository contains the code for the new CS230 website (launched in January
 - Clone a local copy of this repository.
 - Unzip the folder and `cd` into it from terminal.
 - If you haven't already installed [Jekyll](https://jekyllrb.com/), then run `gem install bundler jekyll` or `sudo gem install bundler jekyll`.
-- Run `jekyll serve`.
+- Run `bundle install`
+- Run `local_test.sh`.
 - A local version of the website should be accessible at `http://127.0.0.1:4000`.
 
 ### Edit the Markdown file

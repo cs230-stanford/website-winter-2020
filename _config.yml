@@ -5,7 +5,7 @@ repository: "haossr/cs230-2019-fall"
 
 # Theme settings
 doks:
-    #baseurl: "//cs230.stanford.edu"
+    baseurl: "//cs230.stanford.edu"
     baseurl: "//haossr.github.io/cs230-2019-fall"
     color_theme: red
     header:
@@ -56,7 +56,13 @@ permalink: /:title/
 
 # Course logistics
 course: 
+    quarter: 2019 Fall 
+    time: Tue 9:00 AM - 10:20 AM  
+    venue: NVIDIA Auditorium
     piazza: 'https://piazza.com/class/k0rhx3vr6my26c' 
+    queuestatus: 
+        url: 'https://queuestatus.com/queues/515'
+        name: 'CS230 (2019 Fall)' 
     canvas: ''
     staff:
         - name: Andrew Ng
