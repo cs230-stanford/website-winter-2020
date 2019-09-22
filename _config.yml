@@ -39,8 +39,7 @@ doks:
             #   profile_url: '#'
             # - network_name: twitter
             #   profile_url: '#'
-    google_analytics:
-        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    google_analytics: UA-124237072-3
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments
 
