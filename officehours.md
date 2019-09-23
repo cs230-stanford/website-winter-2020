@@ -8,12 +8,11 @@ description: Times and locations may occasionally change each week so please che
 buttons: [queuestatus]
 micro_nav: false
 ---
-<!--
 <div>
-    <iframe src="https://calendar.google.com/calendar/embed?src=057nfq8g0iillre9qe3u870v8o%40group.calendar.google.com&ctz=America%2FLos_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=aHNoZW5nLm9yZ19wZHRwZm1hM3NuazRsZzFmZ3ZqajExaGY0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23D50000&amp;title=CS230%202019%20Fall&amp;showCalendars=1&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
-
+<!--
 ## Course Staff Zoom IDs
 
 |    TA     | Zoom ID (SCPD) |
