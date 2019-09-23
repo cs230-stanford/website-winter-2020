@@ -142,4 +142,30 @@ course:
           type: Head TA
           url: https://www.hsheng.org/
           image: hao.png
+    ta:
+        - name: Conner Smith
+          type: On-campus TA
+          url: https://www.linkedin.com/in/conner-smith-220042158/ 
+          image: conner.jpeg
+        - name: Jonathan Braatz
+          type: On-campus TA
+          url: 
+          image: unknown.png
+        - name: Jo Chuang
+          type: On-campus TA
+          url: http://linkedin.com/in/jochuang
+          image: unknown.png
+        - name: Mohamed Mahmoud
+          type: External TA
+          url: https://elgeish.com
+          image: mohamed.jpg
+        - name: Sarah Ciresi
+          type: On-campus TA
+          url: https://www.linkedin.com/in/sarahciresi
+          image: unknown.png 
+        - name: Vineet Kosaraju
+          type: On-campus TA
+          url: http://vineetkosaraju.com
+          image: vineet.png
+               
     

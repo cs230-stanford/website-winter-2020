@@ -8,6 +8,14 @@
 </div>
 {% endfor%}
 
-#### On Campus Course Assistants
+#### Course Assistants
+{% for people in site.course.ta %}
+<div class="instructor">
+	<a href="{{ people.link }}">
+            <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+            <div style="text-align:center;"> {{ people.name }} </div>
+	</a>
+</div>
+{% endfor%}
 
 
