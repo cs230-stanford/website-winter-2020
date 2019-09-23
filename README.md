@@ -15,6 +15,7 @@ Open the Markdown file (`.md`) for the page you want to edit. Generally, don't e
 - A local version of the website should be accessible at `http://127.0.0.1:4000`.
 
 ### Publish the website 
+- You can run `sh deploy.sh` now for deployment if you have set up the SSH config for rice.stanford.edu
 #### Generate a publishable version
 From terminal run `JEKYLL_ENV=production jekyll build` in the top folder for a local version of the website. A publishable HTML version of the website will be available in the `_site` folder.
 
