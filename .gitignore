@@ -21,5 +21,6 @@ Thumbs.db
 .sass-cache
 .jekyll-cache
 _site
+.idea
 
 

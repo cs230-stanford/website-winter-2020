@@ -19,13 +19,13 @@
 								{% endif %}
 								{% if page.page_nav.prev.content or page.page_nav.next.content %}
 									{% if page.page_nav.prev.content and page.page_nav.prev.url %}
-										<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
+										<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
 											<i class="icon icon--arrow-left"></i>
 											{{ page.page_nav.prev.content }}
 										</a>
 									{% endif %}
 									{% if page.page_nav.next.content and page.page_nav.next.url %}
-										<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+										<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 											<i class="icon icon--arrow-right"></i>
 											{{ page.page_nav.next.content }}
 										</a>
@@ -39,7 +39,7 @@
 										{{ button.content }}
 									</a>
 									{% else %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
 										{{ button.content }}
 									</a>
@@ -57,7 +57,7 @@
                                                                                {% if people.type == "Instructor" %}
                                                                                     <div class="instructor">
                                         <a href="{{ people.link }}">
-                    <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+                    <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
                 <div style="text-align:center;">{{ people.name }}<br>{{ people.type }}</div>
 	</a>
         </div>
@@ -114,13 +114,13 @@
 						<div class="row">
 							<div class="col-xs-12">
 								{% if page.page_nav.prev.content and page.page_nav.prev.url %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="page-nav__item page-nav__item--prev">
+									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="page-nav__item page-nav__item--prev">
 										<i class="icon icon--arrow-left"></i>
 										{{ page.page_nav.prev.content }}
 									</a><!-- /.page-nav__item -->
 								{% endif %}
 								{% if page.page_nav.next.content and page.page_nav.next.url %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="page-nav__item page-nav__item--next">
+									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="page-nav__item page-nav__item--next">
 										{{ page.page_nav.next.content }}
 										<i class="icon icon--arrow-right"></i>
 									</a><!-- /.page-nav__item -->
