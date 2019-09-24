@@ -63,6 +63,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
@@ -142,6 +143,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
@@ -331,6 +333,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
@@ -393,6 +396,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
