@@ -36,7 +36,8 @@ doks:
             #   profile_url: '#'
             # - network_name: twitter
             #   profile_url: '#'
-    google_analytics: UA-124237072-3
+    google_analytics:
+        tracking_code: UA-124237072-3
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments
 
@@ -147,22 +148,20 @@ course:
         - name: Jonathan Braatz
           type: On-campus TA
           url: 
-          image: unknown.png
+          image: jon.png
         - name: Jo Chuang
           type: On-campus TA
           url: http://linkedin.com/in/jochuang
           image: jo.jpg 
-        - name: Mohamed Mahmoud
+        - name: Mohamed El-Geish
           type: External TA
           url: https://elgeish.com
           image: mohamed.jpg
         - name: Sarah Ciresi
           type: On-campus TA
           url: https://www.linkedin.com/in/sarahciresi
-          image: unknown.png 
+          image: sarah.png
         - name: Vineet Kosaraju
           type: On-campus TA
           url: http://vineetkosaraju.com
           image: vineet.png
-               
-    
