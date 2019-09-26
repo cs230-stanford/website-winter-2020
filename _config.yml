@@ -148,7 +148,7 @@ course:
         - name: Jonathan Braatz
           type: On-campus TA
           url: 
-          image: jon.png
+          image: jon.jpg
         - name: Jo Chuang
           type: On-campus TA
           url: http://linkedin.com/in/jochuang
@@ -160,7 +160,7 @@ course:
         - name: Sarah Ciresi
           type: On-campus TA
           url: https://www.linkedin.com/in/sarahciresi
-          image: sarah.png
+          image: sarah.jpg
         - name: Vineet Kosaraju
           type: On-campus TA
           url: http://vineetkosaraju.com
