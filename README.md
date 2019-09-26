@@ -11,7 +11,7 @@ This repository contains the code for the CS230 website for Fall, 2019. It is ba
 Open the Markdown file (`.md`) for the page you want to edit. Generally, don't edit the first few rows of text between `--` and `--`.  Notice that if you edit this page then reload the website, your changes will have been added. Don't forget to **commit your changes** to the Github page.
 
 ### Build and serve the website locally 
-- Run `bundle exec jekyll serve --baseurl`.
+- Run `bundle exec jekyll serve --baseurl ""`.
 - A local version of the website should be accessible at `http://127.0.0.1:4000`.
 
 ### Publish the website 
@@ -49,7 +49,7 @@ General:
 - [ ] Standardize previous project list and make a standardized method for adding new ones.
 - [ ] Add a toggle answer include for the FAQ, Sections, and Lectures.
 - [ ] Clean up file structure on server.
-- [ ] Add Google Analytics by editing the `_config.yml` file.
+- [ ] Create playground (embedded IDE + docker) in the blog/sections to let students run and edit code on the fly.
 
 Section:
 - [ ] Section 3 should use the notation introduced in class.

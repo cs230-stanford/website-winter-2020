@@ -246,7 +246,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
-            <td><strong>one of {10/30, 10/31, 11/01, 11/04}</strong></td>
+            <td><strong>11/06 Wednesday 6-9PM</strong></td>
             <td></td>
             <td>
                 <strong>Midterm</strong>
