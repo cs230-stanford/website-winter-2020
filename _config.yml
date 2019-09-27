@@ -54,15 +54,23 @@ exclude: [ 'README.md', 'CHANGELOG.md', 'scripts']
 permalink: /:title/
 
 # Course logistics
-course: 
-    quarter: 2019 Fall 
-    time: Tue 9:00 AM - 10:20 AM  
+course:
+    quarter: 2019 Fall
+    time: Tue 9:00 AM - 10:20 AM
     venue: NVIDIA Auditorium
-    piazza: &pz 'https://piazza.com/class/k0rhx3vr6my26c' 
-    queuestatus: 
+    piazza: &pz 'https://piazza.com/class/k0rhx3vr6my26c'
+    queuestatus:
         url: &qs 'https://queuestatus.com/queues/515'
-        name: 'CS230 (2019 Fall)' 
+        name: 'CS230 (2019 Fall)'
     canvas: ''
+    midterm_time: 11/06 Wednesday 6-9 PM
+    project_timeline:
+        proposal: 2019-10-10T23:59:00-07:00
+        milestone: 2019-11-05T23:59:00-08:00
+        poster_and_report: 2019-12-08T23:59:00-08:00
+        poster_session: TBD
+        long_date_format: "%B %-d, %A %I:%M %p"
+        syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
         syllabus:
             icon: 
