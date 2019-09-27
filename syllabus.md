@@ -116,7 +116,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Proposal Due</strong></td>
-            <td><strong>10/10<br>Thursday<br>11:59PM</strong></td>
+            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td></td>
@@ -244,29 +244,6 @@ micro_nav: false
                 <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
             </td>
         </tr>
-        <tr style="background-color:#ffcece" id="midterm">
-            <td><strong>Midterm</strong></td>
-            <td><strong>11/06 Wednesday 6-9PM</strong></td>
-            <td></td>
-            <td>
-                <strong>Midterm</strong>
-                <!--
-                <ul>
-                    <li>Date: Thursday, May 9th</li>
-                    <li>Time: 6pm-9pm</li>
-                    <li>Last names A-K: <a href="https://campus-map.stanford.edu/?id=07-200&lat=37.43065713&lng=-122.17143743&zoom=17&srch=stlc">STLC 111</a> </li>
-                    <li>Last names L-Z: <a href="https://campus-map.stanford.edu/?id=08-350&lat=37.4292801717259&lng=-122.16731208647946&zoom=17">Bishop Auditorium</a> </li>
-                </ul>
-
-                -->
-            </td>
-            <td>
-                <strong>Alternate Midterm</strong><br>(Only for students with valid, approved reason)
-                <ul>
-                    <li>Date: TBD</li>
-                </ul>
-            </td>
-        </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
             <td> 11/05 </td>
@@ -299,12 +276,34 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Milestone Due</strong></td>
-            <td><strong>11/5<br>Tuesday<br>11:59PM</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
             <td>
                 <a href="/project/#milestone">Instructions</a></td>
             <td>
             </td>
             <td></td>
+        </tr>
+        <tr style="background-color:#ffcece" id="midterm">
+            <td><strong>Midterm</strong></td>
+            <td><strong>{{ site.course.midterm_time }}</strong></td>
+            <td></td>
+            <td>
+                <strong>Midterm</strong>
+                <!--
+                <ul>
+                    <li>Date: Thursday, May 9th</li>
+                    <li>Time: 6pm-9pm</li>
+                    <li>Last names A-K: <a href="https://campus-map.stanford.edu/?id=07-200&lat=37.43065713&lng=-122.17143743&zoom=17&srch=stlc">STLC 111</a> </li>
+                    <li>Last names L-Z: <a href="https://campus-map.stanford.edu/?id=08-350&lat=37.4292801717259&lng=-122.16731208647946&zoom=17">Bishop Auditorium</a> </li>
+                </ul>
+                -->
+            </td>
+            <td>
+                <strong>Alternate Midterm</strong><br>(Only for students with valid, approved reason)
+                <ul>
+                    <li>Date: TBD</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td id="Module_5" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
@@ -401,7 +400,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Final Poster and Project Report Due</strong></td>
-            <td><strong>12/8<br>Sunday<br>11:59PM </strong></td>
+            <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
             <td>
                 Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
             </td>
@@ -412,7 +411,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Poster Session</strong></td>
-            <td><strong>TBD</strong></td>
+            <td><strong>{{ site.course.project_timeline.poster_session }}</strong></td>
             <td></td>
             <td>
                 <strong>Poster Session</strong>
