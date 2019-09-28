@@ -11,11 +11,11 @@ This repository contains the code for the CS230 website for Fall, 2019. It is ba
 Open the Markdown file (`.md`) for the page you want to edit. Generally, don't edit the first few rows of text between `--` and `--`.  Notice that if you edit this page then reload the website, your changes will have been added. Don't forget to **commit your changes** to the Github page.
 
 ### Build and serve the website locally 
-- Run `bundle exec jekyll serve --baseurl ""`.
+- Run `./run.sh`.
 - A local version of the website should be accessible at `http://127.0.0.1:4000`.
 
 ### Publish the website 
-- You can run `sh deploy.sh` now for deployment if you have set up the SSH config for rice.stanford.edu
+- You can run `./deploy.sh` now for deployment if you have set up the SSH config for rice.stanford.edu
 #### Generate a publishable version
 From terminal run `JEKYLL_ENV=production jekyll build` in the top folder for a local version of the website. A publishable HTML version of the website will be available in the `_site` folder.
 

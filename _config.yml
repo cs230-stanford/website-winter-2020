@@ -177,3 +177,11 @@ course:
           type: External TA
           url: https://www.linkedin.com/in/zahra-koochak-8bb175a1
           image: zahra.jpg
+        - name: Shahab Mousavi
+          type: On-campus TA
+          url: https://www.linkedin.com/in/shahab-mousavi-39394738/
+          image: shahab.jpg
+        - name: Advay Pal
+          type: On-campus TA
+          url: http://advaypal.com/
+          image: advay.jpg
