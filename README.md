@@ -33,12 +33,12 @@ For shortcuts to Markdown formatting check out this [cheat sheet](https://github
 ## What need to be done 
 Logistics:
 - [x] Update Staff information 
-- [ ] Update CA information 
+- [x] Update TA information 
 - [x] Update Piazza link
 - [x] Update QueueStatus
-- [ ] Update Calendar url
-- [ ] Update Zoom link
-- [ ] Update 2019 Spr project link
+- [x] Update Calendar url
+- [x] Update Zoom link
+- [ ] Update 2019 fall project link
 - [x] Update Course Syllabus 
 
 ## What can be improved

@@ -127,6 +127,10 @@ course:
             content: QueueStatus
             url: *qs
             external_url: true
+        project_appt_calendly:
+            content: Meet with Project TA
+            url: 'https://calendly.com/cs230-2019-fall'
+            external_url: true
     staff:
         - name: Andrew Ng
           type: Instructor
@@ -165,6 +169,7 @@ course:
           type: External TA
           url: https://elgeish.com
           image: mohamed.jpg
+          zoom_id: 8939992795
         - name: Sarah Ciresi
           type: On-campus TA
           url: https://www.linkedin.com/in/sarahciresi
@@ -177,6 +182,7 @@ course:
           type: External TA
           url: https://www.linkedin.com/in/zahra-koochak-8bb175a1
           image: zahra.jpg
+          zoom_id: 5813391849
         - name: Shahab Mousavi
           type: On-campus TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
