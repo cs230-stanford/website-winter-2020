@@ -191,3 +191,7 @@ course:
           type: On-campus TA
           url: http://advaypal.com/
           image: advay.jpg
+        - name: Huizi Mao
+          type: On-campus TA
+          url:
+          image: huizi.jpg

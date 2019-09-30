@@ -17,20 +17,15 @@ We are using [this queue](https://queuestatus.com/queues/515) for office hour qu
 You will need to create an account on QueueStatus. When you wish to join the queue, click on the "Sign Up" button in the CS230 - Spring 2019 Queue page. Be sure to properly enter all information needed in the menu when you sign up. This will enable the TAs to properly contact you. Also check "Announcements" and "chat" boxes reguarly for messages from TAs.
 
 ## Zoom URLs for SCPD Office Hours
-<table>
-    <thead>
-        <tr>
-            <th>TA</th>
-            <th>Zoom URL</th>
-        </tr>
-    </thead>
-{% assign people = site.course.ta | concat: site.course.staff %}
-{% for ta in people %}
-    {% unless ta.zoom_id == null %}
-    <tr><td>{{ ta.name }}</td><td><a href="https://stanford.zoom.us/j/{{ ta.zoom_id }}">{{ ta.zoom_id }}</a></td></tr>
-    {% endunless %}
+
+| TA | Zoom URL |
+|----|----------|
+{% assign people = site.course.ta | concat: site.course.staff -%}
+{% for ta in people -%}
+{% unless ta.zoom_id == null -%}
+| {{ ta.name }} | [{{ ta.zoom_id }}](https://stanford.zoom.us/j/{{ ta.zoom_id }}) |
+{% endunless -%}
 {% endfor %}
-</table>
 
 ## Google Calendar
 <div>
