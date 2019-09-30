@@ -10,9 +10,10 @@ micro_nav: false
 ---
 
 ## Project Office Hours
-You will need to make a 15-minute appointment with project TAs — click <https://calendly.com/cs230-2019-fall> to start.
+Week 2: Meet-up with TAs are **mandatory**. Please use [this link](https://calendly.com/cs230-2019-fall) to make a 15-minute appointment with any project TA. <br> Starting from next week, we will assign TA to each group.    
 
 ## Other Office Hours
+We are using [this queue](https://queuestatus.com/queues/515) for office hour queue.
 You will need to create an account on QueueStatus. When you wish to join the queue, click on the "Sign Up" button in the CS230 - Spring 2019 Queue page. Be sure to properly enter all information needed in the menu when you sign up. This will enable the TAs to properly contact you. Also check "Announcements" and "chat" boxes reguarly for messages from TAs.
 
 ## Zoom URLs for SCPD Office Hours
@@ -23,7 +24,8 @@ You will need to create an account on QueueStatus. When you wish to join the que
             <th>Zoom URL</th>
         </tr>
     </thead>
-{% for ta in site.course.ta %}
+{% assign people = site.course.ta | concat: site.course.staff %}
+{% for ta in people %}
     {% unless ta.zoom_id == null %}
     <tr><td>{{ ta.name }}</td><td><a href="https://stanford.zoom.us/j/{{ ta.zoom_id }}">{{ ta.zoom_id }}</a></td></tr>
     {% endunless %}

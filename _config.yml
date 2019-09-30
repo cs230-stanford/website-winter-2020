@@ -152,6 +152,7 @@ course:
           type: Head TA
           url: https://www.hsheng.org/
           image: hao.png
+          zoom_id: 7600992637
     ta:
         - name: Conner Smith
           type: On-campus TA
