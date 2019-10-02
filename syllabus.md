@@ -34,12 +34,11 @@ micro_nav: false
             <td>Lecture&nbsp;1</td>
             <td> 09/24 </td>
             <td>
-                <strong>Topics:</strong>
+                <strong>Topics:</strong> <a href="/fall2019/lecture1.pdf">(slides)</a>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
                     <li>Course details</li>
-                    <!--<li><a href="/spring2019/cs230_lecture1.pdf">Slides</a> and <a href="/files/Notation.pdf">Class notation</a></li> -->
                 </ul>
             </td>
             <td>
@@ -53,7 +52,7 @@ micro_nav: false
             <td>Lecture&nbsp;2</td>
             <td> 10/01 </td>
             <td>
-                <strong>Topics:</strong> Full-cycle of a deep learning project
+                <strong>Topics:</strong>Practical Approaches to Deep Learning Projects  <a href="/fall2019/lecture2.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -85,13 +84,7 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 10/08 </td>
             <td>
-                <strong>Topics:</strong> Deep Learning Intuition
-                <ul>
-                    <li>How to frame a machine learning problem?</li>
-                    <li>How to choose your loss function?</li>
-                    <li>Intuition behind various real-world application of deep learning.</li>
-                    <li><a href="/spring2019/cs230_lecture3.pdf">Slides</a></li>
-                </ul>
+                <strong>Topics:</strong>Full-stack DL Projects
             </td>
             <td>
                 <strong>Completed modules:</strong>
