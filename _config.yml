@@ -161,10 +161,12 @@ course:
           type: On-campus TA
           url: 
           image: jon.jpg
+          zoom_id: 5026279572
         - name: Jo Chuang
           type: On-campus TA
           url: http://linkedin.com/in/jochuang
-          image: jo.jpg 
+          image: jo.jpg
+          zoom_id: 8543765436
         - name: Mohamed El-Geish
           type: External TA
           url: https://elgeish.com
@@ -174,10 +176,12 @@ course:
           type: On-campus TA
           url: https://www.linkedin.com/in/sarahciresi
           image: sarah.jpg
+          zoom_id: 2532092111
         - name: Vineet Kosaraju
           type: On-campus TA
           url: http://vineetkosaraju.com
           image: vineet.png
+          zoom_id: 2698484179
         - name: Zahra Koochak
           type: External TA
           url: https://www.linkedin.com/in/zahra-koochak-8bb175a1
@@ -196,3 +200,4 @@ course:
           type: On-campus TA
           url:
           image: huizi.jpg
+          zoom_id: 3119546884
