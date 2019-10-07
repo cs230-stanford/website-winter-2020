@@ -408,13 +408,7 @@ micro_nav: false
             <td></td>
             <td>
                 <strong>Poster Session</strong>
-                <!--
-                <ul>
-                    <li>Date: TBD</li>
-                    <li>Time: TBD</li>
-                    <li>Location: <a href="https://alumni.stanford.edu/get/page/resources/alumnicenter/directions">Alumni Center</a></li>
-                </ul>
-                -->
+                Location: <a href="https://rec.stanford.edu/facilities/maps">ACSR Basketball Courts (341 Galvez St.)</a>
             </td>
             <td></td>
         </tr>

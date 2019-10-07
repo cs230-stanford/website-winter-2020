@@ -81,6 +81,10 @@ course:
             content: Past Projects
             url: '/past-projects'
             external_url: false
+        project-sponsoring:
+            content: Sponsoring a Project
+            url: 'https://docs.google.com/forms/d/e/1FAIpQLSfJOXvQq46sfie8Z6e8Tp8v0_3khker3wrJJR44VyTINcGLiA/viewform'
+            external_url: true
         project-2018-win:
             icon:
             content: Winter 2018
