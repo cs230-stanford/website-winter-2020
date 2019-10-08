@@ -82,41 +82,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td> 10/08 </td>
-            <td>
-                <strong>Topics:</strong>Full-stack DL Projects
-            </td>
-            <td>
-                <strong>Completed modules:</strong>
-                <ul>
-                    <li>C1M3: Shallow Neural Network <a href="/files/C1M3.pdf">(slides)</a></li>
-                    <li>C1M4: Deep Neural Networks <a href="/files/C1M4.pdf">(slides)</a></li>
-                </ul>
-            </td>
-            <td>
-                <strong>Quizzes (due at 8:30am):</strong>
-                <ul>
-                    <li>Shallow Neural Networks</li>
-                    <li>Key concepts on Deep Neural Networks</li>
-                </ul>
-                <strong>Programming Assignments (due at 8:30am):</strong>
-                <ul>
-                    <li>Planar data classification with a hidden layer</li>
-                    <li>Building your Deep Neural Network: step by step</li>
-                    <li>Deep Neural Network - Application</li>
-                </ul>
-            </td>
-        </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Proposal Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#proposal">Instructions</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Lecture&nbsp;4</td>
-            <td> 10/15 </td>
+            <td> 10/8 </td>
             <td>
                 <strong>Topics: Adversarial examples - GAN </strong>
                 <ul>
@@ -136,7 +102,6 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
@@ -152,6 +117,41 @@ micro_nav: false
             </td>
         </tr>
         <tr>
+            <td>Lecture&nbsp;4</td>
+            <td> 10/15 </td>
+            <td>
+                <strong>Topics:</strong>Full-stack DL Projects
+            </td>
+            <td>
+                <strong>Completed modules:</strong>
+                <ul>
+                    <li>C1M3: Shallow Neural Network <a href="/files/C1M3.pdf">(slides)</a></li>
+                    <li>C1M4: Deep Neural Networks <a href="/files/C1M4.pdf">(slides)</a></li>
+                </ul>
+            </td>
+            <td>
+                <strong>Quizzes (due at 8:30am):</strong>
+                <ul>
+                    <li>Shallow Neural Networks</li>
+                    <li>Key concepts on Deep Neural Networks</li>
+                </ul>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
+                <ul>
+                    <li>Planar data classification with a hidden layer</li>
+                    <li>Building your Deep Neural Network: step by step</li>
+                    <li>Deep Neural Network - Application</li>
+                </ul>
+            </td>
+        </tr>
+        <tr style="background-color:#b7ffbf">
+            <td><strong>Project Proposal Due</strong></td>
+            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#proposal">Instructions</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+<tr>
             <td id="Module_3" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Structuring Machine Learning Projects</strong> <a href="https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning">(Course 3)</a>
             </td>
