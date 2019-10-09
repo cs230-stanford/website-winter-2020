@@ -52,44 +52,7 @@ micro_nav: false
             <td>Lecture&nbsp;2</td>
             <td> 10/01 </td>
             <td>
-                <strong>Topics:</strong>Practical Approaches to Deep Learning Projects  <a href="/fall2019/lecture2.pdf">(slides)</a>
-            </td>
-            <td>
-                <strong>Completed modules:</strong>
-                <ul>
-                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>
-                    <li>C1M2: Neural Network Basics <a href="/files/C1M2.pdf">(slides)</a></li>
-                </ul>
-            </td>
-            <td>
-                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
-                <strong>Quizzes (due at 8:30am):</strong>
-                <ul>
-                    <li>Introduction to deep learning</li>
-                    <li>Neural Networks Basics</li>
-                </ul>
-                <strong>Programming Assignments (due at 8:30am)</strong>
-                <ul>
-                    <li>Python Basics with Numpy (Optional)</li>
-                    <li>Logistic Regression with a neural network mindset</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td id="Module_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> <a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">(Course 2)</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Lecture&nbsp;3</td>
-            <td> 10/8 </td>
-            <td>
-                <strong>Topics: Adversarial examples - GAN </strong>
-                <ul>
-                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks<a href="/lectures/2019/winter/4.pdf"> (slides)</a></li>
-                </ul>
-                <strong>Optional Readings:</strong>
-                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
+                <strong>Topics: </strong>Practical Approaches to Deep Learning Projects  <a href="/fall2019/lecture2.pdf">(slides)</a>
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
@@ -113,6 +76,43 @@ micro_nav: false
                     <li>Regularization</li>
                     <li>Gradient Checking</li>
                     <li>Optimization</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td id="Module_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
+                <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> <a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">(Course 2)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Lecture&nbsp;3</td>
+            <td> 10/8 </td>
+            <td>
+                <strong>Topics: Adversarial examples - GAN</strong>
+                <ul>
+                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks <a href="/fall2019/lecture3.pdf">(slides)</a></li>
+                </ul>
+                <strong>Optional Readings:</strong>
+                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
+            </td>
+            <td>
+                <strong>Completed modules:</strong>
+                <ul>
+                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>
+                    <li>C1M2: Neural Network Basics <a href="/files/C1M2.pdf">(slides)</a></li>
+                </ul>
+            </td>
+            <td>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
+                <strong>Quizzes (due at 8:30am):</strong>
+                <ul>
+                    <li>Introduction to deep learning</li>
+                    <li>Neural Networks Basics</li>
+                </ul>
+                <strong>Programming Assignments (due at 8:30am)</strong>
+                <ul>
+                    <li>Python Basics with Numpy (Optional)</li>
+                    <li>Logistic Regression with a neural network mindset</li>
                 </ul>
             </td>
         </tr>
