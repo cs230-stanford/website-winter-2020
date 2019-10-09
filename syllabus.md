@@ -84,9 +84,9 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 10/8 </td>
             <td>
-                <strong>Topics: Adversarial examples - GAN </strong>
+                <strong>Topics: Adversarial examples - GAN</strong>
                 <ul>
-                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks<a href="/lectures/2019/winter/4.pdf"> (slides)</a></li>
+                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks <a href="/fall2019/lecture3.pdf">(slides)</a></li>
                 </ul>
                 <strong>Optional Readings:</strong>
                 <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
