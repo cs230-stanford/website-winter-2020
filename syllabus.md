@@ -106,7 +106,6 @@ micro_nav: false
                     <li>Shallow Neural Networks</li>
                     <li>Key concepts on Deep Neural Networks</li>
                 </ul>
-                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Planar data classification with a hidden layer</li>
