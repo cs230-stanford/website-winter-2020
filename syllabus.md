@@ -56,8 +56,8 @@ micro_nav: false
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
-                    <li>C2M1: Practical aspects of deep learning <a href="/files/C2M1.pdf">(slides)</a></li>
-                    <li>C2M2: Optimization algorithms <a href="/files/C2M2.pdf">(slides)</a></li>
+                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>
+                    <li>C1M2: Neural Network Basics <a href="/files/C1M2.pdf">(slides)</a></li>
                 </ul>
                 <strong>Optional Video</strong>
                 <ul>
@@ -67,15 +67,13 @@ micro_nav: false
             <td>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
-                    <li>Practical aspects of deep learning</li>
-                    <li>Optimization Algorithms</li>
+                    <li>Introduction to deep learning</li>
+                    <li>Neural Networks Basics</li>
                 </ul>
-                <strong>Programming Assignments (due at 8:30am):</strong>
+                <strong>Programming Assignments (due at 8:30am)</strong>
                 <ul>
-                    <li>Initialization</li>
-                    <li>Regularization</li>
-                    <li>Gradient Checking</li>
-                    <li>Optimization</li>
+                    <li>Python Basics with Numpy (Optional)</li>
+                    <li>Logistic Regression with a neural network mindset</li>
                 </ul>
             </td>
         </tr>
@@ -98,38 +96,11 @@ micro_nav: false
             <td>
                 <strong>Completed modules:</strong>
                 <ul>
-                    <li>C1M1: Introduction to deep learning <a href="/files/C1M1.pdf">(slides)</a></li>
-                    <li>C1M2: Neural Network Basics <a href="/files/C1M2.pdf">(slides)</a></li>
-                </ul>
-            </td>
-            <td>
-                <strong>Quizzes (due at 8:30am):</strong>
-                <ul>
-                    <li>Introduction to deep learning</li>
-                    <li>Neural Networks Basics</li>
-                </ul>
-                <strong>Programming Assignments (due at 8:30am)</strong>
-                <ul>
-                    <li>Python Basics with Numpy (Optional)</li>
-                    <li>Logistic Regression with a neural network mindset</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Lecture&nbsp;4</td>
-            <td> 10/15 </td>
-            <td>
-                <strong>Topics:</strong>Full-stack DL Projects
-            </td>
-            <td>
-                <strong>Completed modules:</strong>
-                <ul>
                     <li>C1M3: Shallow Neural Network <a href="/files/C1M3.pdf">(slides)</a></li>
                     <li>C1M4: Deep Neural Networks <a href="/files/C1M4.pdf">(slides)</a></li>
                 </ul>
             </td>
             <td>
-                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
@@ -151,7 +122,36 @@ micro_nav: false
             <td></td>
             <td></td>
         </tr>
-<tr>
+        <tr>
+            <td>Lecture&nbsp;4</td>
+            <td> 10/15 </td>
+            <td>
+                <strong>Topics: </strong>Full-stack DL Projects
+            </td>
+            <td>
+                <strong>Completed modules:</strong>
+                <ul>
+                    <li>C2M1: Practical aspects of deep learning <a href="/files/C2M1.pdf">(slides)</a></li>
+                    <li>C2M2: Optimization algorithms <a href="/files/C2M2.pdf">(slides)</a></li>
+                </ul>
+            </td>
+            <td>
+                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
+                <strong>Quizzes (due at 8:30am):</strong>
+                <ul>
+                    <li>Practical aspects of deep learning</li>
+                    <li>Optimization Algorithms</li>
+                </ul>
+                <strong>Programming Assignments (due at 8:30am):</strong>
+                <ul>
+                    <li>Initialization</li>
+                    <li>Regularization</li>
+                    <li>Gradient Checking</li>
+                    <li>Optimization</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
             <td id="Module_3" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Structuring Machine Learning Projects</strong> <a href="https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning">(Course 3)</a>
             </td>
