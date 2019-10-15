@@ -125,7 +125,7 @@ micro_nav: false
             <td>Lecture&nbsp;4</td>
             <td> 10/15 </td>
             <td>
-                <strong>Topics: </strong>Full-stack DL Projects
+                <strong>Topics: </strong>Full-cycle DL Projects
             </td>
             <td>
                 <strong>Completed modules:</strong>
