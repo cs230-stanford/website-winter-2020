@@ -165,7 +165,7 @@ course:
           image: conner.jpeg
           zoom_id: 7844912006
           calendly: https://calendly.com/cs230-2019-fall/conner
-          OH1: "6:00 pm - 8:00 pm Thursday"
+          OH1: "6:00 pm - 9:00 pm Thursday"
         - name: Jonathan Braatz
           type: On-campus TA
           url: 
@@ -217,7 +217,7 @@ course:
           zoom_id: 9392472642
           calendly: https://calendly.com/cs230-2019-fall/shahab
           OH1: "3:00 pm - 6:00 pm Saturday"
-          OH2: "6:00 pm - 7:00 pm Thursday"
+          OH2: "6:00 pm - 7:00 pm Friday"
         - name: Advay Pal
           type: On-campus TA
           url: http://advaypal.com/
