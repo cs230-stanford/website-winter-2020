@@ -159,7 +159,7 @@ micro_nav: false
             <td>Lecture&nbsp;5</td>
             <td> 10/22 </td>
             <td>
-                <strong>Topics:</strong> AI and Healthcare (Guest speaker: Pranav Rajpurkar)
+                <strong>Topics:</strong> DL Strategy
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -186,7 +186,7 @@ micro_nav: false
             <td>Lecture 6</td>
             <td>10/29</td>
             <td>
-                <strong>Topics: DL strategy </strong>
+                <strong>Topics:</strong> AI and Healthcare (Guest Speaker: Pranav Rajpurkar)
             </td>
             <td>
                 <strong>Completed modules:</strong>
