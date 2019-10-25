@@ -258,7 +258,7 @@ micro_nav: false
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition and Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due at 8:30am):</strong>
+                <strong>Programming Assignments (due on Friday 11/08 at 11:59pm):</strong>
                 <ul>
                     <li>Car Detection with YOLOv2</li>
                     <li>Art Generation with Neural Style Transfer</li>
