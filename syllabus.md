@@ -253,7 +253,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 8:30am):</strong>
+                <strong>Quizzes (due on Friday 11/08 at 11:59pm):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition and Neural Style Transfer</li>
