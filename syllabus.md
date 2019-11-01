@@ -215,7 +215,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td>10/31</td>
+            <td>10/31 3:00-4:20pm in Thornton 102</td>
             <td><strong>Past midterms:</strong>
                 <ul>
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
