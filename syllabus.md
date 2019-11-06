@@ -243,7 +243,7 @@ micro_nav: false
             <td>Lecture&nbsp;7</td>
             <td> 11/05 </td>
             <td>
-                <strong>Topics:</strong> AI and Healthcare (Guest Speaker: Pranav Rajpurkar)
+                <strong>Topics:</strong> AI and Healthcare (Guest Speaker: Pranav Rajpurkar) <a href="/fall2019/lecture7.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
