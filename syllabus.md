@@ -329,7 +329,7 @@ micro_nav: false
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 8:30am):</strong>
+                <strong>Programming Assignments (due on Thursday 11/14 at 8:30am):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
