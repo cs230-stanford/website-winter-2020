@@ -325,7 +325,7 @@ micro_nav: false
             </td>
             <td>
                 <strong>Note: Meeting with your project TA is mandatory this week! </strong>
-                <strong>Quizzes (due at 8:30am):</strong>
+                <strong>Quizzes (due on Thursday 11/14 at 8:30am):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
