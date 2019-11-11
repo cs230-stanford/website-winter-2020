@@ -155,7 +155,6 @@ micro_nav: true
 
 <ul>
     <li><a href="http://cs230.stanford.edu/projects_winter_2019/posters/15811620.pdf"><strong>Learning Joint Acoustic-Phonetic Word Embeddings</strong></a> by Mohamed G Mahmoud</li>
-    <li><a href="http://cs230.stanford.edu/projects_winter_2019/posters/15811797.pdf"><strong>Deep Learning for Well Data History Analysis</strong></a> by Ruixiao Sun, Yuanjun Li</li>
     <li><a href="http://cs230.stanford.edu/projects_winter_2019/posters/15813437.pdf"><strong>Improving Mobile Robot Navigation with Deep Neural Control and Search-based Motion Planning</strong></a> by Max Kristian Fergusonposter</li>
 </ul>
 
@@ -185,7 +184,6 @@ micro_nav: true
     <li><strong>Deep learning for relative stock performance prediction</strong> by Ruben Ignacio Contesti, Sebastian Hurubaru, Jun Yan: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15794303.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15810042.pdf">poster</a></li>
     <li><strong>Deep Neural Networks for Image Compression</strong> by Brian Matthew Graham, Jacob John Decoto: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15807203.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15813230.pdf">poster</a></li>
     <li><strong>Modeling Polymer reflow and shape evolution with neural networks</strong> by Charmaine Chia: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15813319.pdf">report</a></li>
-    <li><strong>Deep Learning for Well Data History Analysis</strong> by Ruixiao Sun, Yuanjun Li: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15813073.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15811797.pdf">poster</a></li>
     <li><strong>A Deep Learning Approach to Improved Video Colorization</strong> by Yang Fang, Vedi Chaudhri: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15811557.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15776261.pdf">poster</a></li>
     <li><strong>Multilabel Classification of Restaurants Throught User-Submitted photos</strong> by Neval Cam, Kaan Ertas: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15811993.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15740058.pdf">poster</a></li>
     <li><strong>Determining Style of Paintings using Deep Learning and Convolutional Neural Networks</strong> by Jeffrey Dong Chen, Patrick James Tanaka Mogan, Sean Chang: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15813172.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15721152.pdf">poster</a></li>
