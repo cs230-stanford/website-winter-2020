@@ -388,7 +388,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Note:</strong>Meeting with your project TA is optional this week
+                <strong>Note:</strong> Meeting with your project TA is optional this week
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
