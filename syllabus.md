@@ -408,7 +408,7 @@ micro_nav: false
             <td></td>
             <td>
                 <strong>Poster Session</strong>
-                Location: <a href="https://rec.stanford.edu/facilities/maps">ACSR Basketball Courts (341 Galvez St.)</a>
+                Location: <a href="http://rec.stanford.edu/facilities/acsr/">ACSR Basketball Courts (341 Galvez St.)</a>
             </td>
             <td></td>
         </tr>

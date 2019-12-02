@@ -126,7 +126,7 @@ The milestone will help you make sure you're on track, and should describe what 
 
 **Poster Session:** {{ site.course.project_timeline.poster_session }}
 
-**Location:** [Alumni Center](https://alumni.stanford.edu/get/page/resources/alumnicenter/directions)
+**Location:** [ACSR Basketball Courts (341 Galvez St.)](http://rec.stanford.edu/facilities/acsr/)
 
 **Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
 Please make a private Piazza request if you have special circumstances.** 
