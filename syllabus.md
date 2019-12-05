@@ -384,7 +384,7 @@ micro_nav: false
                 <ul>
                     <li>Class wrap-up</li>
                     <li>What's next?</li>
-                    <li><a href="/spring2019/cs230_lecture10.pdf">Slides</a></li>
+                    <li><a href="/fall2019/lecture10.pdf">Slides</a></li>
                 </ul>
             </td>
             <td>
