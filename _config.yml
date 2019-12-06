@@ -67,7 +67,7 @@ course:
         proposal: 2019-10-10T23:59:00-07:00
         milestone: 2019-11-05T23:59:00-08:00
         poster_and_report: 2019-12-08T23:59:00-08:00
-        poster_session: 12/11 Wednesday 8:30 AM - 12:30 PM
+        poster_session: 12/11 Wednesday 8:30 AM - 11:30 AM
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
