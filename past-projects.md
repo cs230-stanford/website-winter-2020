@@ -9,6 +9,16 @@ buttons: [project-2018-win, project-2018-spr, project-2018-fall, project-2019-wi
 micro_nav: true
 
 ---
+# Fall 2019
+
+## Outstanding Posters
+<ul>
+    <li><strong>Forecasting groundwater quality using continuous-time recurrent neural networks</strong></li>
+    <li><strong>font-gen: Deep Models for Inferring Alternate Language Sets from Fonts</strong></li>
+    <li><strong>CNN Transfer Learning for Visual Guitar Chord Classification</strong></li>
+    <li><strong>Everyone could be artist: sketch to style-specified artwork</strong></li>
+    <li><strong>Neural Network Authentication using Biometric Keystroke Dynamics</strong></li>
+</ul>
 
 # Spring 2019
 
@@ -875,5 +885,3 @@ micro_nav: true
     <li><strong>New Object Designs using GANs</strong> by Matias Castillo Tocornal: <a href="../files_winter_2018/projects/6940425.pdf">report</a>, <a href="../files_winter_2018/posters/6880305.pdf">poster</a></li>
     <li><strong>HailRick: A Camera tool to help the visually impaired in India hail auto-rickshaws</strong> by Sriraman Madhavan: <a href="../files_winter_2018/projects/6924287.pdf">report</a>, <a href="../files_winter_2018/posters/6873783.pdf">poster</a></li>
 </ul>
-
-
