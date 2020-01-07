@@ -123,7 +123,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/100571/external_tools/3367'
+            url: 'https://canvas.stanford.edu/courses/112249/external_tools/3367'
             external_url: true
         queuestatus:
             icon:
