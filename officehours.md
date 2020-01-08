@@ -10,10 +10,7 @@ micro_nav: false
 ---
 
 ## Annoucements
-- [2019-10-14] Week 4: Meet-up with TAs is **mandatory**. Please make a 15-minute appointment with your assigned project TA. We update the office hour booking links and please find them in [this table](#table).
-- [2019-11-05] Week 7: Meet-up with your project's TA is **mandatory**. Please make a 15-minute appointment with your assigned project TA. We update the office hour booking links and please find them in [this table](#table). You have 2 weeks to meet with your project TA.
-- [2019-11-11] Week 7: Please remember to meet with your project TA to get some feedbacks on the milestone. The deadline of this mandatory meeting is 11:59pm 11/22.
-- [2019-11-12] Week 8: We want to hear your feedback so we can keep improving our logistics and content. Please fill this [quick survey](https://docs.google.com/forms/d/e/1FAIpQLScTb9Ht5IDM0LsGl_RH4--SCp6KSm8yr8hxiOHOSOLoA2IdTg/viewform?usp=sf_link) and let us know your thoughts (your answers will be anonymous). 
+- Stay tuned!
 
 ## Office Hours Table <a name="table"></a>
 
