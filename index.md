@@ -43,7 +43,7 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning
 Students are expected to have the following background:
  * Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program.
  * Familiarity with the probability theory. (CS 109 or STATS 116)
- * Familiarity with linear algebra (any one of Math 104, Math 113, or CS 205)
+ * Familiarity with linear algebra (MATH 51)
 
 ## Grading
 

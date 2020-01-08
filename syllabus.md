@@ -32,9 +32,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;1</td>
-            <td> 09/24 </td>
+            <td> 01/07 </td>
             <td>
-                <strong>Topics:</strong> <a href="/fall2019/lecture1.pdf">(slides)</a>
+                <strong>Topics:</strong>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
@@ -42,7 +42,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                No online modules. If you are enrolled in CS230, you will receive an email on 09/25 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
+                No online modules. If you are enrolled in CS230, you will receive an email on 01/07 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
             </td>
             <td>
                 No assignments.
@@ -50,9 +50,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;2</td>
-            <td> 10/01 </td>
+            <td> 01/14 </td>
             <td>
-                <strong>Topics: </strong>Practical Approaches to Deep Learning Projects  <a href="/fall2019/lecture2.pdf">(slides)</a>
+                <strong>Topics: </strong>Deep Learning Intuition
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
@@ -84,14 +84,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td> 10/8 </td>
+            <td> 01/21 </td>
             <td>
-                <strong>Topics: Adversarial examples - GAN</strong>
-                <ul>
-                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks <a href="/fall2019/lecture3.pdf">(slides)</a></li>
-                </ul>
-                <strong>Optional Readings:</strong>
-                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
+                <strong>Topics: </strong>Full-cycle of a Deep Learning Project
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -123,9 +118,14 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;4</td>
-            <td> 10/15 </td>
+            <td> 01/28 </td>
             <td>
-                <strong>Topics: </strong>Full-cycle DL Projects
+                <strong>Topics:</strong> Adversarial examples - GANs
+                <ul>
+                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
+                </ul>
+                <strong>Optional Readings:</strong>
+                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -157,7 +157,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td> 10/22 </td>
+            <td> 02/04 </td>
             <td>
                 <strong>Topics:</strong> DL Strategy
             </td>
@@ -184,12 +184,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture 6</td>
-            <td>10/29</td>
+            <td> 02/11 </td>
             <td>
-                <strong>Topics:</strong> Interpretability of Neural Network <a href="/fall2018/slides_week7.pdf">(slides)</a>
-                <br>
-                <br>
-                <strong>Optional Reading:</strong> <a href="https://arxiv.org/pdf/1603.07285.pdf">A guide to convolution arithmetic for deep learning</a>, <a href="https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf">Is the deconvolution layer the same as a convolutional layer?</a>, <a href="https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">Visualizing and Understanding Convolutional Networks</a>, <a href="https://arxiv.org/pdf/1312.6034.pdf">Deep Inside Convolutional Networks: Visualizing Image Classification Models and Saliency Maps</a>, <a href="https://arxiv.org/pdf/1506.06579.pdf">Understanding Neural Networks Through Deep Visualization</a>, <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">Learning Deep Features for Discriminative Localization</a>
+                <strong>Topics:</strong> AI and Healthcare (Guest Speaker: Pranav Rajpurkar)
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -215,7 +212,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td>10/31 3:00-4:20pm in Thornton 102</td>
+            <td>Date: TBD</td>
             <td><strong>Past midterms:</strong>
                 <ul>
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
@@ -241,9 +238,12 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
-            <td> 11/05 </td>
+            <td> 02/18 </td>
             <td>
-                <strong>Topics:</strong> AI and Healthcare (Guest Speaker: Pranav Rajpurkar) <a href="/fall2019/lecture7.pdf">(slides)</a>
+                <strong>Topics:</strong> Interpretability of Neural Networks
+                <br>
+                <br>
+                <strong>Optional Reading:</strong> <a href="https://arxiv.org/pdf/1603.07285.pdf">A guide to convolution arithmetic for deep learning</a>, <a href="https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf">Is the deconvolution layer the same as a convolutional layer?</a>, <a href="https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">Visualizing and Understanding Convolutional Networks</a>, <a href="https://arxiv.org/pdf/1312.6034.pdf">Deep Inside Convolutional Networks: Visualizing Image Classification Models and Saliency Maps</a>, <a href="https://arxiv.org/pdf/1506.06579.pdf">Understanding Neural Networks Through Deep Visualization</a>, <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">Learning Deep Features for Discriminative Localization</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -253,12 +253,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due on Friday 11/08 at 11:59pm):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition and Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due on Friday 11/08 at 11:59pm):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Car Detection with YOLOv2</li>
                     <li>Art Generation with Neural Style Transfer</li>
@@ -304,7 +304,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 11/12 </td>
+            <td> 02/25 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -325,12 +325,12 @@ micro_nav: false
             </td>
             <td>
                 <strong>Note:</strong> Meeting with your project TA is mandatory; you have 2 weeks to meet
-                <br />
-                <strong>Quizzes (due on Thursday 11/14 at 8:30am):</strong>
+                <br>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due on Thursday 11/14 at 8:30am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
@@ -340,12 +340,11 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;9</td>
-            <td> 11/19 </td>
+            <td> 03/03 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
                     <li>Deep Reinforcement Learning</li>
-                    <li><a href="/spring2019/cs230_lecture9.pdf">Slides</a></li>
                 </ul>
                 <br>
                 <strong>Optional Reading:</strong>
@@ -378,18 +377,18 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;10</td>
-            <td> 12/03 </td>
+            <td> 03/10 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
                     <li>Class wrap-up</li>
                     <li>What's next?</li>
-                    <li><a href="/fall2019/lecture10.pdf">Slides</a></li>
                 </ul>
             </td>
             <td>
                 <strong>Note:</strong> Meeting with your project TA is optional this week
             </td>
+            <td></td>
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Final Poster and Project Report Due</strong></td>
@@ -408,7 +407,9 @@ micro_nav: false
             <td></td>
             <td>
                 <strong>Poster Session</strong>
-                Location: <a href="http://rec.stanford.edu/facilities/acsr/">ACSR Basketball Courts (341 Galvez St.)</a>
+                <ul>
+                <li> Location: TBD</li>
+                </ul>
             </td>
             <td></td>
         </tr>

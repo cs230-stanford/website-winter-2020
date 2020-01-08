@@ -54,20 +54,20 @@ permalink: /:title/
 
 # Course logistics
 course:
-    quarter: 2019 Fall
+    quarter: 2020 Winter
     time: Tue 9:00 AM - 10:20 AM
     venue: NVIDIA Auditorium
-    piazza: &pz 'https://piazza.com/class/k0rhx3vr6my26c'
+    piazza: &pz 'https://piazza.com/class/k533d6ufdfg5dv'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/515'
-        name: 'CS230 (2019 Fall)'
+        name: 'CS230 (2020 Winter)'
     canvas: ''
-    midterm_time: 11/06 Wednesday 6-9 PM
+    midterm_time: TBD
     project_timeline:
-        proposal: 2019-10-10T23:59:00-07:00
-        milestone: 2019-11-05T23:59:00-08:00
-        poster_and_report: 2019-12-08T23:59:00-08:00
-        poster_session: 12/11 Wednesday 8:30 AM - 11:30 AM
+        proposal: 2020-01-22T23:59:00-07:00
+        milestone: TBD (around Week 7)
+        poster_and_report: 2020-03-15T23:59:00-08:00
+        poster_session: 03/18 Wednesday 8:30 AM - 11:30 AM
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
@@ -147,91 +147,77 @@ course:
           type: Coordinator 
           url: http://www.linkedin.com/in/swatidube/
           image: swati.jpg
-        - name: Younes Mourri
-          type: Course Advisor
-          url: https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9/
-          image: younes.jpg
-        - name: Hao Sheng
+        - name: Jon Braatz
           type: Head TA
-          url: https://www.hsheng.org/
-          image: hao.png
-          zoom_id: 7600992637
-          calendly: https://calendly.com/cs230-2019-fall/hao
-          OH1: "4:00 pm - 7:00 pm Monday"
-    ta:
-        - name: Conner Smith
-          type: On-campus TA
-          url: https://www.linkedin.com/in/conner-smith-220042158/ 
-          image: conner.jpeg
-          zoom_id: 7844912006
-          calendly: https://calendly.com/cs230-2019-fall/conner
-          OH1: "6:00 pm - 9:00 pm Thursday"
-        - name: Jonathan Braatz
-          type: On-campus TA
           url: 
           image: jon.jpg
           zoom_id: 5026279572
-          calendly: https://calendly.com/cs230-2019-fall/jon
-          OH1: "9:00 am - 12:00 pm Friday"
-          OH2: "12:00 pm - 1:00 pm Friday"
+          calendly: 
+          OH1: 
+    ta:
         - name: Jo Chuang
           type: On-campus TA
           url: http://linkedin.com/in/jochuang
           image: jo.jpg
           zoom_id: 8543765436
-          calendly: https://calendly.com/cs230-2019-fall/jo
-          OH1: "3:00 pm - 6:00 pm Tuesday"
-        - name: Mohamed El-Geish
-          type: External TA
-          url: https://elgeish.com
-          image: mohamed.jpg
-          zoom_id: 8939992795
-          calendly: https://calendly.com/cs230-2019-fall/mohamed
-          OH1: "11:00 am - 2:00 pm Saturday"
-        - name: Sarah Ciresi
-          type: On-campus TA
-          url: https://www.linkedin.com/in/sarahciresi
-          image: sarah.jpg
-          zoom_id: 2532092111
-          calendly: https://calendly.com/cs230-2019-fall/sarah
-          OH1: "1:30 pm - 4:30 pm Thursday"
+          calendly: 
+          OH1:
         - name: Vineet Kosaraju
           type: On-campus TA
           url: http://vineetkosaraju.com
           image: vineet.png
           zoom_id: 2698484179
-          calendly: https://calendly.com/cs230-2019-fall/vineet
-          OH1: "1:30 pm - 4:30 pm Wednesday"
-          OH2: "4:00 pm - 5:00 pm Monday"
-        - name: Zahra Koochak
-          type: External TA
-          url: https://www.linkedin.com/in/zahra-koochak-8bb175a1
-          image: zahra.jpg
-          zoom_id: 5813391849
-          calendly: https://calendly.com/cs230-2019-fall/zahra
-          OH1: "7:00 am - 10:00 am Sunday"
+          calendly:
+          OH1:
+          OH2:
         - name: Shahab Mousavi
           type: On-campus TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
           image: shahab.jpg
           zoom_id: 9392472642
-          calendly: https://calendly.com/cs230-2019-fall/shahab
-          OH1: "3:00 pm - 6:00 pm Saturday"
-          OH2: "6:00 pm - 7:00 pm Friday"
+          calendly:
+          OH1:
+          OH2:
         - name: Advay Pal
           type: On-campus TA
           url: http://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
-          calendly: https://calendly.com/cs230-2019-fall/advay
-          OH1: "1:00 pm - 4:00 pm Friday"
-          OH2: "12:00 pm - 1:00 pm Thursday"
-        - name: Huizi Mao
+          calendly:
+          OH1:
+          OH2:
+        - name: Pranav Rajpurkar
           type: On-campus TA
           url:
-          image: huizi.jpg
-          zoom_id: 3119546884
-          calendly: https://calendly.com/cs230-2019-fall/huizi
-          OH1: "1:00 pm - 4:00 pm Monday"
-
-
+          image: pranav.jpg
+          zoom_id: 
+          calendly: 
+          OH1: 
+        - name: Sherry Ruan
+          type: On-campus TA
+          url:
+          image: sherry.jpg
+          zoom_id: 
+          calendly: 
+          OH1: 
+        - name: Chris Waites
+          type: On-campus TA
+          url:
+          image: chris.jpg
+          zoom_id: 
+          calendly: 
+          OH1: 
+        - name: Jingbo Yang
+          type: On-campus TA
+          url:
+          image: jingbo.jpg
+          zoom_id: 
+          calendly: 
+          OH1: 
+        - name: Leo Mehr
+          type: On-campus TA
+          url:
+          image: leo.png
+          zoom_id: 
+          calendly: 
+          OH1: 
