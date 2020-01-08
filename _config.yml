@@ -5,7 +5,7 @@ repository: "haossr/cs230-2019-fall"
 
 # Theme settings
 doks:
-    color_theme: blue 
+    color_theme: blue
     header:
         logo:
             text: CS230
@@ -28,7 +28,7 @@ doks:
     footer:
         content:
             logo:
-                text: 
+                text:
                 image:
             copyright: Copyright &copy; 2019. - Stanford University <br>All rights reserved.
         social_list:
@@ -72,7 +72,7 @@ course:
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
         syllabus:
-            icon: 
+            icon:
             content: Syllabus
             url: '/syllabus'
             external_url: false
@@ -111,12 +111,12 @@ course:
             url: '/past-projects/#spring-2019'
             external_url: false
         video2018:
-            icon: 
+            icon:
             content: Lecture videos (Fall 2018)
             url: '/lecture/'
-            external_url: false 
+            external_url: false
         piazza:
-            icon: 
+            icon:
             content: Piazza
             url: *pz
             external_url: true
@@ -138,33 +138,33 @@ course:
         - name: Andrew Ng
           type: Instructor
           url: https://www.andrewng.org/
-          image: andrew.jpg 
+          image: andrew.jpg
         - name: Kian Katanforoosh
           type: Instructor
           url: https://www.linkedin.com/in/kiankatan/
           image: kian.jpg
-        - name: Swati Dube 
-          type: Coordinator 
+        - name: Swati Dube
+          type: Coordinator
           url: http://www.linkedin.com/in/swatidube/
           image: swati.jpg
         - name: Jon Braatz
           type: Head TA
-          url: 
+          url:
           image: jon.jpg
           zoom_id: 5026279572
-          calendly: 
-          OH1: 
+          calendly:
+          OH1:
     ta:
         - name: Jo Chuang
           type: On-campus TA
-          url: http://linkedin.com/in/jochuang
+          url: https://jochuang.com/
           image: jo.jpg
           zoom_id: 8543765436
-          calendly: 
+          calendly:
           OH1:
         - name: Vineet Kosaraju
           type: On-campus TA
-          url: http://vineetkosaraju.com
+          url: https://vineetkosaraju.com/
           image: vineet.png
           zoom_id: 2698484179
           calendly:
@@ -180,7 +180,7 @@ course:
           OH2:
         - name: Advay Pal
           type: On-campus TA
-          url: http://advaypal.com/
+          url: https://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
           calendly:
@@ -188,36 +188,36 @@ course:
           OH2:
         - name: Pranav Rajpurkar
           type: On-campus TA
-          url:
+          url: https://rajpurkar.github.io/
           image: pranav.jpg
-          zoom_id: 
-          calendly: 
-          OH1: 
+          zoom_id:
+          calendly:
+          OH1:
         - name: Sherry Ruan
           type: On-campus TA
           url:
           image: sherry.jpg
-          zoom_id: 
-          calendly: 
-          OH1: 
+          zoom_id:
+          calendly:
+          OH1:
         - name: Chris Waites
           type: On-campus TA
-          url:
+          url: https://chriswaites.com/
           image: chris.jpg
-          zoom_id: 
-          calendly: 
-          OH1: 
+          zoom_id:
+          calendly:
+          OH1:
         - name: Jingbo Yang
           type: On-campus TA
-          url:
+          url: https://www.linkedin.com/in/jingbo-eric-yang-36b0b08a/
           image: jingbo.jpg
-          zoom_id: 
-          calendly: 
-          OH1: 
+          zoom_id:
+          calendly:
+          OH1:
         - name: Leo Mehr
           type: On-campus TA
-          url:
+          url: https://leomehr.com/
           image: leo.png
-          zoom_id: 
-          calendly: 
-          OH1: 
+          zoom_id:
+          calendly:
+          OH1:
