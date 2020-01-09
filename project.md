@@ -13,7 +13,7 @@ micro_nav: true
 
 ## Project Starter Package
 
-The teaching team has put together a [github repository](https://github.com/cs230-stanford/cs230-code-examples) with project code examples, including a computer vision and a natural language processing example (both in Tensorflow and Pytorch). There is also a series of [posts](https://cs230-stanford.github.io/) to help you familiarize yourself with the project code examples, get ideas on how to structure your deep learning project code, and to setup AWS. The code examples posted are optional and are only meant to help you with your final project. The code can be reused in your projects, but the examples presented are not complex enough to meet the expectations of a quarterly project. 
+The teaching team has put together a [github repository](https://github.com/cs230-stanford/cs230-code-examples) with project code examples, including a computer vision and a natural language processing example (both in Tensorflow and Pytorch). There is also a series of [posts](https://cs230.stanford.edu/blog/) to help you familiarize yourself with the project code examples, get ideas on how to structure your deep learning project code, and to setup AWS. The code examples posted are optional and are only meant to help you with your final project. The code can be reused in your projects, but the examples presented are not complex enough to meet the expectations of a quarterly project.
 
 
 ## Project Topics
@@ -81,7 +81,7 @@ Your project proposal should include the following information:
  * What reading will you examine to provide context and background? If relevant, what papers do you refer to?
  * How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 
-Presenting pointers to one relevant dataset and one example of prior research on the topic are a valuable (optional) addition. 
+Presenting pointers to one relevant dataset and one example of prior research on the topic are a valuable (optional) addition.
 
 
 | **Project mentors** | Based off of the topic you choose in your proposal, we’ll suggest a project mentor given the areas of expertise of the TAs. This is just a recommendation; feel free to speak with other TAs as well.
@@ -129,7 +129,7 @@ The milestone will help you make sure you're on track, and should describe what 
 **Location:** [ACSR Basketball Courts (341 Galvez St.)](http://rec.stanford.edu/facilities/acsr/)
 
 **Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
-Please make a private Piazza request if you have special circumstances.** 
+Please make a private Piazza request if you have special circumstances.**
 
 Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.
 
@@ -151,7 +151,7 @@ The final report should contain a comprehensive account of your project. We expe
  * Any insights and discussions relevant to the project
  * References
 
- After the class, we will post all the final writeups online so that you can read about each other’s work. If you do not want your write-up to be posted online, then please create a private Piazza post. 
+ After the class, we will post all the final writeups online so that you can read about each other’s work. If you do not want your write-up to be posted online, then please create a private Piazza post.
 
  | **Format** | Final project writeups can be **at most 5 pages** long (including appendices and figures). We will allow for extra pages containing only references. If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. For shared projects, we also require that you submit the final report from the class you're sharing the project with. You are strongly encouraged to use this [format](/files/formatting-instructions-cs230.pdf) (here's a link to the [overleaf files](https://www.overleaf.com/read/jcqmtbqhkrxg)). If you are not using this format, make sure to include all sections given in the format. If you prefer to use Microsoft Word, you may refer to the [CVPR template](http://cvpr2019.thecvf.com/files/cvpr2019AuthorKit.zip) or the [IEEE template](https://www.ieee.org/conferences/publishing/templates.html).
  | **Contributions** | Please include a section that describes what each team member worked on and contributed to the project.
