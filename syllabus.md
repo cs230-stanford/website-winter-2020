@@ -9,6 +9,12 @@ buttons:
 micro_nav: false
 ---
 
+## Annoucements
+- Stay tuned!
+
+
+## Syllabus
+
 <table id="schedule" class="table table-bordered no-more-tables" style="width: 100%; font-size: 0.8em;">
     <colgroup>
         <col>
