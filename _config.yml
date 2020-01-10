@@ -153,7 +153,6 @@ course:
           image: jon.jpg
           zoom_id: 5026279572
           calendly:
-          OH1:
     ta:
         - name: Jo Chuang
           type: On-campus TA
@@ -161,63 +160,51 @@ course:
           image: jo.jpg
           zoom_id: 8543765436
           calendly:
-          OH1:
         - name: Vineet Kosaraju
           type: On-campus TA
           url: https://vineetkosaraju.com/
           image: vineet.png
           zoom_id: 2698484179
           calendly:
-          OH1:
-          OH2:
         - name: Shahab Mousavi
           type: On-campus TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
           image: shahab.jpg
           zoom_id: 9392472642
           calendly:
-          OH1:
-          OH2:
         - name: Advay Pal
           type: On-campus TA
           url: https://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
           calendly:
-          OH1:
-          OH2:
         - name: Pranav Rajpurkar
           type: On-campus TA
           url: https://rajpurkar.github.io/
           image: pranav.jpg
           zoom_id:
           calendly:
-          OH1:
         - name: Sherry Ruan
           type: On-campus TA
           url:
           image: sherry.jpg
           zoom_id:
           calendly:
-          OH1:
         - name: Chris Waites
           type: On-campus TA
           url: https://chriswaites.com/
           image: chris.jpg
-          zoom_id:
+          zoom_id: 7534542794
           calendly:
-          OH1:
         - name: Jingbo Yang
           type: On-campus TA
           url: https://www.linkedin.com/in/jingbo-eric-yang-36b0b08a/
           image: jingbo.jpg
           zoom_id:
           calendly:
-          OH1:
         - name: Leo Mehr
           type: On-campus TA
           url: https://leomehr.com/
           image: leo.png
-          zoom_id:
+          zoom_id: 5470200840
           calendly:
-          OH1:

@@ -9,19 +9,18 @@ buttons: [project_appt_calendly, queuestatus]
 micro_nav: false
 ---
 
-## Annoucements
-- Stay tuned!
-
 ## Office Hours Table <a name="table"></a>
 
-| TA | Project Office Hour | Regular Office Hour | Zoom URL |
-|----|:-------------------:|:-------------------:|----------|
+| TA | Project Office Hour Signup | Zoom URL |
+|----|:--------------------------:|----------|
 {% assign people = site.course.ta | concat: site.course.staff -%}
 {% for ta in people -%}
 {% unless ta.zoom_id == null -%}
-| {{ ta.name }} | {{ ta.OH1 }} <br> [Click to book]({{ ta.calendly }}) | {% if ta.OH2 %} {{ ta.OH2 }} <br> [Click to book]({{ site.course.queuestatus.url }}) {% endif %} | [{{ ta.zoom_id }}](https://stanford.zoom.us/j/{{ ta.zoom_id }}) |
+| {{ ta.name }} | [Click to book]({{ ta.calendly }}) | [{{ ta.zoom_id }}](https://stanford.zoom.us/j/{{ ta.zoom_id }}) |
 {% endunless -%}
 {% endfor %}
+
+QueueStatus link for Homework OH: [Click to book]({{ site.course.queuestatus.url }})
 
 ## Google Calendar
 <div>
