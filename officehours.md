@@ -20,7 +20,7 @@ micro_nav: false
 {% endunless -%}
 {% endfor %}
 
-QueueStatus link for Homework OH: [Click to book]({{ site.course.queuestatus.url }})
+QueueStatus link for Homework OH: [{{ site.course.queuestatus.url }}]({{ site.course.queuestatus.url }})
 
 ## Google Calendar
 <div>
