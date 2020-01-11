@@ -200,7 +200,7 @@ course:
           type: On-campus TA
           url: https://www.linkedin.com/in/jingbo-eric-yang-36b0b08a/
           image: jingbo.jpg
-          zoom_id:
+          zoom_id: 3380771726
           calendly: https://calendly.com/cs230winter2020/jingbo-oh
         - name: Leo Mehr
           type: On-campus TA
