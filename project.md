@@ -82,6 +82,7 @@ Your project proposal should include the following information:
  * How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 
 Presenting pointers to one relevant dataset and one example of prior research on the topic are a valuable (optional) addition.
+We link one past example of a good project proposal [here](/winter2020/example_project_proposal.pdf).
 
 
 | **Project mentors** | Based off of the topic you choose in your proposal, we’ll suggest a project mentor given the areas of expertise of the TAs. This is just a recommendation; feel free to speak with other TAs as well.
