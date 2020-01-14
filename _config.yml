@@ -62,7 +62,7 @@ course:
         url: &qs 'https://queuestatus.com/queues/515'
         name: 'CS230 (2020 Winter)'
     canvas: ''
-    midterm_time: TBD
+    midterm_time: 02/19 Wednesday 6-9 PM
     project_timeline:
         proposal: 2020-01-22T23:59:00-07:00
         milestone: TBD (around Week 7)
@@ -183,7 +183,7 @@ course:
           url: https://rajpurkar.github.io/
           image: pranav.jpg
           zoom_id: 7586009555
-          calendly: https://calendly.com/cs230winter2020/pranav-oh
+          calendly: https://calendly.com/cs230winter2/pranav-oh
         - name: Sherry Ruan
           type: On-campus TA
           url: https://www.linkedin.com/in/sherrysruan
@@ -201,7 +201,7 @@ course:
           url: https://www.linkedin.com/in/jingbo-eric-yang-36b0b08a/
           image: jingbo.jpg
           zoom_id: 3380771726
-          calendly: https://calendly.com/cs230winter2020/jingbo-oh
+          calendly: https://calendly.com/cs230winter2/jingbo-oh
         - name: Leo Mehr
           type: On-campus TA
           url: https://leomehr.com/
