@@ -10,7 +10,7 @@ micro_nav: false
 ---
 
 ## Annoucements
-- Stay tuned!
+- The proposal is due by midnight, Wednesday Jan 22! We will begin TA meetings for proposal feedback starting week 4.
 
 
 ## Syllabus
