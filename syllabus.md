@@ -9,8 +9,9 @@ buttons:
 micro_nav: false
 ---
 
-## Annoucements
-- The proposal is due by midnight, Wednesday Jan 22! We will begin TA meetings for proposal feedback starting week 4.
+## Announcements
+- Project meeting logistics have been updated. Each group will meet with their TA 3 times throughout the quarter. See the [project page](/project) for details.
+- TA project mentors have been assigned. See [the piazza post](https://piazza.com/class/k533d6ufdfg5dv?cid=327).
 
 
 ## Syllabus
@@ -32,11 +33,6 @@ micro_nav: false
     </thead>
     <tbody>
         <tr>
-            <td id="Module_1" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Neural Networks and Deep Learning</strong> <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">(Course 1)</a>
-            </td>
-        </tr>
-        <tr>
             <td>Lecture&nbsp;1</td>
             <td> 01/07 </td>
             <td>
@@ -52,6 +48,11 @@ micro_nav: false
             </td>
             <td>
                 No assignments.
+            </td>
+        </tr>
+        <tr>
+            <td id="Module_1" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
+                <strong>Neural Networks and Deep Learning</strong> <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">(Course 1)</a>
             </td>
         </tr>
         <tr>
@@ -84,11 +85,6 @@ micro_nav: false
             </td>
         </tr>
         <tr>
-            <td id="Module_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> <a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">(Course 2)</a>
-            </td>
-        </tr>
-        <tr>
             <td>Lecture&nbsp;3</td>
             <td> 01/21 </td>
             <td>
@@ -102,6 +98,8 @@ micro_nav: false
                 </ul>
             </td>
             <td>
+                <strong>Project TA meeting #1 deadline:</strong> meet with any TA to discuss proposal by Sun, 01/26
+                <br>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
@@ -123,6 +121,11 @@ micro_nav: false
             <td></td>
         </tr>
         <tr>
+            <td id="Module_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
+                <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> <a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">(Course 2)</a>
+            </td>
+        </tr>
+        <tr>
             <td>Lecture&nbsp;4</td>
             <td> 01/28 </td>
             <td>
@@ -141,7 +144,6 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Note: Meeting with your project TA is mandatory this week! </strong>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
@@ -186,6 +188,11 @@ micro_nav: false
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
+            </td>
+        </tr>
+        <tr>
+            <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
+                <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
             </td>
         </tr>
         <tr>
@@ -238,11 +245,6 @@ micro_nav: false
             </td>
         </tr>
         <tr>
-            <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
-            </td>
-        </tr>
-        <tr>
             <td>Lecture&nbsp;7</td>
             <td> 02/18 </td>
             <td>
@@ -272,15 +274,6 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Milestone Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td>
-                <a href="/project/#milestone">Instructions</a></td>
-            <td>
-            </td>
-            <td></td>
-        </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
             <td><strong>{{ site.course.midterm_time }}</strong></td>
@@ -301,6 +294,17 @@ micro_nav: false
                 <ul>
                     <li>Date: TBD</li>
                 </ul>
+            </td>
+        </tr>
+        <tr style="background-color:#b7ffbf">
+            <td><strong>Project Milestone Due</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td>
+                <a href="/project/#milestone">Instructions</a></td>
+            <td>
+            </td>
+            <td>
+                <strong>Project TA meeting #2 deadline:</strong> meet with your assigned project TA any time up until the milestone deadline.
             </td>
         </tr>
         <tr>
@@ -330,8 +334,6 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Note:</strong> Meeting with your project TA is mandatory; you have 2 weeks to meet
-                <br>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
@@ -391,9 +393,7 @@ micro_nav: false
                     <li>What's next?</li>
                 </ul>
             </td>
-            <td>
-                <strong>Note:</strong> Meeting with your project TA is optional this week
-            </td>
+            <td></td>
             <td></td>
         </tr>
         <tr style="background-color:#b7ffbf">
@@ -405,7 +405,9 @@ micro_nav: false
             <td>
             <strong>Note: Late days cannot be applied to the final poster and report.</strong>
             </td>
-            <td></td>
+            <td>
+                <strong>Project TA meeting #3 deadline:</strong> meet with your assigned project TA any time up until the final report deadline (we suggest as soon as possible).
+            </td>
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Poster Session</strong></td>

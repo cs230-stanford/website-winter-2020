@@ -7,11 +7,11 @@ buttons: [syllabus, piazza, video, video2018]
 micro_nav: true
 ---
 ## Course Information
-- This quarter ({{ site.course.quarter }}), CS230 meets for in-class lecture {{ site.course.time}}, {{ site.course.venue }}. 
+- This quarter ({{ site.course.quarter }}), CS230 meets for in-class lecture {{ site.course.time}}, {{ site.course.venue }}.
 - All class communication happens on the [CS230 Piazza forum]({{ site.course.piazza }}). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [syllabus](/syllabus).
 
-<!-- Course Staff --> 
+<!-- Course Staff -->
 {% include staff.html %}
 
 ## Logistics
@@ -28,7 +28,7 @@ CS230 has the following components:
 
 CS230 follows a flipped-classroom format, every week you will have:
 * In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. If you are an SCPD student, you can access the in-class lecture videos on [Canvas](https://canvas.stanford.edu/).
-* Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks. 
+* Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks.
 * TA-led sections on Fridays: Teaching Assistants will teach you hands-on tips and tricks to succeed in your projects, but also theorethical foundations of deep learning.
 * Project meeting with your TA mentor: CS230 is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful deep learning project within a quarter.
 
@@ -57,11 +57,12 @@ Below is the breakdown of the class grade:
  * 8%: Quizzes
  * 2%: Attendance (e.g. in-class lectures --if not SCPD-- and project mentorship meetings.)
 
-**Note:** For project meetings, only the following four meetings are mandatory for attendance:
- * The first occurrence
- * The occurrence after the project proposal
- * The occurrence after the project milestone
- * The occurrence before the final submission
+**Note:** For project meetings, every group must meet 3 times throughout the quarter:
+ 1. Before the project proposal deadline to discuss and validate the project idea. This can be with any TA.
+ 2. Before the milestone deadline, *with your assigned project TA*.
+ 3. Before the final report deadline, again with your assigned project TA.
+
+Every student is allowed to and encouraged to meet more with the TAs, but only the 3 meetings above count towards the final participation grade.
 
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
@@ -69,7 +70,7 @@ From the Coursera sessions (accessible from the invite you receive by email), yo
 You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope]().
 
 #### Late assignments
-Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student. 
+Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student.
 
 **For example**, if one quiz and one programming assignment are submitted 3 hours after the deadline, this results in 2 late days being used.
 

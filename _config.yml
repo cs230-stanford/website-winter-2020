@@ -65,7 +65,7 @@ course:
     midterm_time: 02/19 Wednesday 6-9 PM
     project_timeline:
         proposal: 2020-01-22T23:59:00-07:00
-        milestone: TBD (around Week 7)
+        milestone: 2020-02-21T23:59:00-07:00
         poster_and_report: 2020-03-15T23:59:00-08:00
         poster_session: 03/18 Wednesday 8:30 AM - 11:30 AM
         long_date_format: "%B %-d, %A %I:%M %p"
