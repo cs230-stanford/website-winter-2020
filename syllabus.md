@@ -88,7 +88,7 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 01/21 </td>
             <td>
-                <strong>Topics: </strong>Full-cycle of a Deep Learning Project
+                <strong>Topics: </strong>Full-cycle of a Deep Learning Project <a href="/fall2019/lecture3.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -129,7 +129,7 @@ micro_nav: false
             <td>Lecture&nbsp;4</td>
             <td> 01/28 </td>
             <td>
-                <strong>Topics:</strong> Adversarial examples - GANs
+                <strong>Topics:</strong> Adversarial examples - GANs <a href="/winter2020/lecture4.pdf">(slides)</a>
                 <ul>
                     <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
                 </ul>
