@@ -88,7 +88,7 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 01/21 </td>
             <td>
-                <strong>Topics: </strong>Full-cycle of a Deep Learning Project <a href="/fall2019/lecture3.pdf">(slides)</a>
+                <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
             </td>
             <td>
                 <strong>Completed modules:</strong>
