@@ -167,7 +167,9 @@ micro_nav: false
             <td>Lecture&nbsp;5</td>
             <td> 02/04 </td>
             <td>
-                <strong>Topics:</strong> DL Strategy
+                <strong>Topics:</strong> AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
+                <a href="/winter2020/lecture5_guest.pdf">(guest slides)</a>
+                <a href="/winter2020/lecture5.pdf">(main slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -199,7 +201,7 @@ micro_nav: false
             <td>Lecture 6</td>
             <td> 02/11 </td>
             <td>
-                <strong>Topics:</strong> AI and Healthcare (Guest Speaker: Pranav Rajpurkar)
+                <strong>Topics:</strong> DL Strategy
             </td>
             <td>
                 <strong>Completed modules:</strong>
