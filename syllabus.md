@@ -227,7 +227,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td>Date: TBD</td>
+            <td>02/13</td>
             <td><strong>Past midterms:</strong>
                 <ul>
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
@@ -237,13 +237,10 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <!--
                 <ul>
-                    <li>Date & Time: May 8, 3-4pm</li>
-                    <li>Location: EDUC 128</li>
-                    <li><a href="/spring2019/cs230_midterm_review.pdf">Midterm Review Slides</a></li>
+                    <li>Date & Time: Feb 13, 3:00-4:20pm</li>
+                    <li>Location: Thornton 102</li>
                 </ul>
-                -->
             </td>
         </tr>
         <tr>
