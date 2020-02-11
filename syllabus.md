@@ -12,6 +12,7 @@ micro_nav: false
 ## Announcements
 - Project meeting logistics have been updated. Each group will meet with their TA 3 times throughout the quarter. See the [project page](/project) for details.
 - TA project mentors have been assigned. See [the piazza post](https://piazza.com/class/k533d6ufdfg5dv?cid=327).
+- No section during week 6! In its place is Midterm review.
 
 
 ## Syllabus
@@ -278,21 +279,14 @@ micro_nav: false
             <td><strong>{{ site.course.midterm_time }}</strong></td>
             <td></td>
             <td>
-                <strong>Midterm</strong>
-                <!--
+                Midterm details
                 <ul>
-                    <li>Date: Thursday, May 9th</li>
+                    <li>Date: Wednesday, Feb 19th</li>
                     <li>Time: 6pm-9pm</li>
-                    <li>Last names A-K: <a href="https://campus-map.stanford.edu/?id=07-200&lat=37.43065713&lng=-122.17143743&zoom=17&srch=stlc">STLC 111</a> </li>
-                    <li>Last names L-Z: <a href="https://campus-map.stanford.edu/?id=08-350&lat=37.4292801717259&lng=-122.16731208647946&zoom=17">Bishop Auditorium</a> </li>
+                    <li>Location: <a href="https://goo.gl/maps/5uqzXVQmro78421V8">CEMEX Auditorium</a> </li>
                 </ul>
-                -->
             </td>
             <td>
-                <strong>Alternate Midterm</strong><br>(Only for students with valid, approved reason)
-                <ul>
-                    <li>Date: TBD</li>
-                </ul>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
