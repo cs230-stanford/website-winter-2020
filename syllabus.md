@@ -214,12 +214,12 @@ micro_nav: false
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>The basics of ConvNets</li>
-                    <li>Convolutional models</li>
+                    <li>Deep convolutional models</li>
                 </ul>
                 <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
-                    <li>Convolutional Neural Network - Step by Step</li>
-                    <li>Convolutional Neural Network - Application</li>
+                    <li>Convolutional Model: step by step</li>
+                    <li>Convolutional Model: application</li>
                     <li>Keras Tutorial: This assignment is optional.</li>
                     <li>Residual Networks</li>
                 </ul>
