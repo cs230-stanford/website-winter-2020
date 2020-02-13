@@ -342,11 +342,6 @@ micro_nav: true
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261854.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Learning the Thermal Conditions Beneath the Greenland Ice Sheet</strong> by Mickey Johanne MacKie, Sean Thomas Peters: 
-		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26256881.pdf">report</a>
-		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26256816.pdf">poster</a>
-	</li>
-	<li>
 		<strong>Literary Muzak</strong> by Chuan He, Liang Ping Koh, Qiyin Wu: 
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26362499.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262312.pdf">poster</a>
