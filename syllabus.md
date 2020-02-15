@@ -269,13 +269,13 @@ micro_nav: false
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
-                    <li>Special Applications: Face Recognition and Neural Style Transfer</li>
+                    <li>Special Applications: Face Recognition & Neural Style Transfer</li>
                 </ul>
                 <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
-                    <li>Car Detection with YOLOv2</li>
+                    <li>Car Detection with YOLO</li>
                     <li>Art Generation with Neural Style Transfer</li>
-                    <li>Face recognition for the Happy House</li>
+                    <li>Face Recognition</li>
                 </ul>
             </td>
         </tr>
