@@ -253,7 +253,7 @@ micro_nav: false
             <td>Lecture&nbsp;7</td>
             <td> 02/18 </td>
             <td>
-                <strong>Topics:</strong> Deep Learning Strategy
+                <strong>Topics:</strong> Deep Learning Strategy (no slides)
                 <br>
                 <br>
                 <strong>Optional Reading:</strong> <a href="https://arxiv.org/pdf/1603.07285.pdf">A guide to convolution arithmetic for deep learning</a>, <a href="https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf">Is the deconvolution layer the same as a convolutional layer?</a>, <a href="https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">Visualizing and Understanding Convolutional Networks</a>, <a href="https://arxiv.org/pdf/1312.6034.pdf">Deep Inside Convolutional Networks: Visualizing Image Classification Models and Saliency Maps</a>, <a href="https://arxiv.org/pdf/1506.06579.pdf">Understanding Neural Networks Through Deep Visualization</a>, <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">Learning Deep Features for Discriminative Localization</a>
