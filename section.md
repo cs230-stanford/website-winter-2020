@@ -36,11 +36,11 @@ grid_navigation:
       cta: Read more
       url: /section/6
     - title: Section 7 (Week 8)
-      excerpt: Hyperparameter Tuning and Tensorboard
+      excerpt: Writing Your Final Report
       cta: Read more
       url: /section/7
     - title: Section 8 (Week 9)
-      excerpt: Writing Your Final Report
+      excerpt: Hyperparameter Tuning and Tensorboard
       cta: Read more
       url: /section/8
 ---

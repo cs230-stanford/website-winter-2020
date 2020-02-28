@@ -12,7 +12,6 @@ micro_nav: false
 ## Announcements
 - Project meeting logistics have been updated. Each group will meet with their TA 3 times throughout the quarter. See the [project page](/project) for details.
 - TA project mentors have been assigned. See [the piazza post](https://piazza.com/class/k533d6ufdfg5dv?cid=327).
-- No section during week 6! In its place is Midterm review.
 
 
 ## Syllabus
