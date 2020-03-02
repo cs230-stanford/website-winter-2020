@@ -391,7 +391,12 @@ micro_nav: false
                 </ul>
             </td>
             <td></td>
-            <td></td>
+            <td>
+                <strong>Optional:</strong>
+                <ul>
+                    <li>If you’re interested in testing your ML/DL skills or preparing for job interviews in AI, you can take the <a href="https://www.workera.ai/candidates">Workera assessment</a></li>
+                </ul>
+            </td>
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Final Poster and Project Report Due</strong></td>
