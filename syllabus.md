@@ -348,6 +348,7 @@ micro_nav: false
             <td> 03/03 </td>
             <td>
                 <strong>Topics:</strong>
+                <a href="/winter2020/lecture9.pdf">(slides)</a>
                 <ul>
                     <li>Deep Reinforcement Learning</li>
                 </ul>
