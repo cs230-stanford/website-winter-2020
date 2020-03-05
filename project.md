@@ -123,16 +123,14 @@ The milestone will help you make sure you're on track, and should describe what 
 
 ## Poster
 
-**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
+**Submission Deadline:** {{ site.course.project_timeline.poster_session | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
-**Poster Session:** {{ site.course.project_timeline.poster_session }}
+The in-person poster session is **cancelled**. [See Piazza post for poster and video submission instructions](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
 
-**Location:** [ACSR Basketball Courts (341 Galvez St.)](http://rec.stanford.edu/facilities/acsr/)
+<!--**Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
+Please make a private Piazza request if you have special circumstances.**-->
 
-**Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
-Please make a private Piazza request if you have special circumstances.**
-
-Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.
+Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. <!--In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.-->
 
 | **Format** | Here are some [poster guidelines](/files/poster-guidelines.pdf) (please note that 36x24 in means 36 in wide by 24 in tall, i.e. it's better if your poster is formatted landscape). You can also look at posters from previous years in CS229/CS231N/CS224N.
 | **Grading** | We will be grading posters on the poster quality and clarity, the technical content of the poster, as well as the knowledge demonstrated by the team when discussing their work with teaching staff at the poster session. **Note:** Posters with nice, illustrative figures are preferred over posters with lots of text.

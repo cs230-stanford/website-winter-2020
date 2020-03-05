@@ -400,10 +400,10 @@ micro_nav: false
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
-            <td><strong>Final Poster and Project Report Due</strong></td>
+            <td><strong>Final Project Report Due</strong></td>
             <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
             <td>
-                Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
+                Instructions for <a href="/project/#final-report">Project Report</a>
             </td>
             <td>
             <strong>Note: Late days cannot be applied to the final poster and report.</strong>
@@ -413,14 +413,18 @@ micro_nav: false
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
-            <td><strong>Poster Session</strong></td>
-            <td><strong>{{ site.course.project_timeline.poster_session }}</strong></td>
-            <td></td>
+            <td><strong>Final Poster and Video Due</strong></td>
             <td>
-                <strong>Poster Session</strong>
-                <ul>
-                <li> Location: TBD</li>
-                </ul>
+              <strong>
+                {{ site.course.project_timeline.poster_session }}
+              </strong>
+            </td>
+            <td>
+                Instructions for <a href="/project/#poster">Poster</a>
+            </td>
+            <td>
+                <strong>NOTE:</strong> The poster session was cancelled.
+                <a href="https://piazza.com/class/k533d6ufdfg5dv?cid=702">See Piazza Post</a> for more details.
             </td>
             <td></td>
         </tr>

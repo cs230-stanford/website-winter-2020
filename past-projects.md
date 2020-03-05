@@ -5,7 +5,7 @@ comments: false
 
 title: Past Projects
 description: One of CS230's main goals is to prepare students to apply machine learning algorithms to real-world tasks. Check out a list of our students past final project.
-buttons: [project-2018-win, project-2018-spr, project-2018-fall, project-2019-win, project-2019-spr]
+buttons: [project-2018-win, project-2018-spr, project-2018-fall, project-2019-win, project-2019-spr, project-2019-fall]
 micro_nav: true
 
 ---
@@ -23,556 +23,556 @@ micro_nav: true
 ## Submissions
 <ul>
 	<li>
-		<strong>"Hinglish" Language - Modeling a Messy Code-Mixed Language</strong> by Vivek Kumar Gupta: 
+		<strong>"Hinglish" Language - Modeling a Messy Code-Mixed Language</strong> by Vivek Kumar Gupta:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26251423.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259347.pdf">poster</a>
 	</li>
 	<li>
-		<strong>2D to 3D Animation Style Transfer</strong> by Swathi Vish Iyer, Timothy Quang-Tin Le: 
+		<strong>2D to 3D Animation Style Transfer</strong> by Swathi Vish Iyer, Timothy Quang-Tin Le:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259410.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259435.pdf">poster</a>
 	</li>
 	<li>
-		<strong>3D Object Detection from Point Cloud</strong> by Alexander Arzhanov: 
+		<strong>3D Object Detection from Point Cloud</strong> by Alexander Arzhanov:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26232893.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26232825.pdf">poster</a>
 	</li>
 	<li>
-		<strong>3D Object Detection in Point Clouds</strong> by Shao Yuan Ho, Tzu-Sheng Kuo, Yen-Yu Chang: 
+		<strong>3D Object Detection in Point Clouds</strong> by Shao Yuan Ho, Tzu-Sheng Kuo, Yen-Yu Chang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26258455.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26256184.pdf">poster</a>
 	</li>
 	<li>
-		<strong>A Deep Learning Approach for Human Activity</strong> by Derek Bryan McCreight, Susana Benavidez: 
+		<strong>A Deep Learning Approach for Human Activity</strong> by Derek Bryan McCreight, Susana Benavidez:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26221049.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26219852.pdf">poster</a>
 	</li>
 	<li>
-		<strong>A Deep Learning Approach to Classifying Intracranial Hemorrhages</strong> by Michael Beckinghausen: 
+		<strong>A Deep Learning Approach to Classifying Intracranial Hemorrhages</strong> by Michael Beckinghausen:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260039.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259954.pdf">poster</a>
 	</li>
 	<li>
-		<strong>A method to improve classifier performance using Generative Adversarial Networks(GANs) based data augmentation on the Kannada MNIST dataset</strong> by Prateik Harwalker: 
+		<strong>A method to improve classifier performance using Generative Adversarial Networks(GANs) based data augmentation on the Kannada MNIST dataset</strong> by Prateik Harwalker:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26256833.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261012.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Alzheimer’s Disease Stage Diagnosis, Applying 3D Convolution Neural Networks to MRI Brain Scans</strong> by Ben Karl Moore, Mohammadhossein Shafinia, Utkarsh Tandon: 
+		<strong>Alzheimer’s Disease Stage Diagnosis, Applying 3D Convolution Neural Networks to MRI Brain Scans</strong> by Ben Karl Moore, Mohammadhossein Shafinia, Utkarsh Tandon:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26228995.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26228999.pdf">poster</a>
 	</li>
 	<li>
-		<strong>An AI for Dominion using Deep Reinforcement Learning</strong> by Eric Yang, Yu-chi Kuo: 
+		<strong>An AI for Dominion using Deep Reinforcement Learning</strong> by Eric Yang, Yu-chi Kuo:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260348.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260383.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Application of Computer Vision in Intracranial Hemorrhage (ICH) Detection</strong> by Amit Bhatia: 
+		<strong>Application of Computer Vision in Intracranial Hemorrhage (ICH) Detection</strong> by Amit Bhatia:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26256990.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26256221.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Art Nouveau Style Transferwith Face Alignment</strong> by Elena Tuzhilina: 
+		<strong>Art Nouveau Style Transferwith Face Alignment</strong> by Elena Tuzhilina:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261057.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260682.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Audio Separation and Isolation: A Deep Neural Network Approach</strong> by Ahmed Mohamed H Hamdy, Muni Venkata Jasantha Konduru, Pratap Kiran Vedula: 
+		<strong>Audio Separation and Isolation: A Deep Neural Network Approach</strong> by Ahmed Mohamed H Hamdy, Muni Venkata Jasantha Konduru, Pratap Kiran Vedula:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261998.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260114.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Authio: Neural Network Authentication using Biometric Keystroke Dynamics</strong> by Alex Langshur, Harry Mellsop: 
+		<strong>Authio: Neural Network Authentication using Biometric Keystroke Dynamics</strong> by Alex Langshur, Harry Mellsop:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26233774.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26233764.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Automatic Voice Title Generation by Extractive Summarization of Long Product Titles using Bi-LSTM</strong> by Snehasish Mukherjee: 
+		<strong>Automatic Voice Title Generation by Extractive Summarization of Long Product Titles using Bi-LSTM</strong> by Snehasish Mukherjee:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262276.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262196.pdf">poster</a>
 	</li>
 	<li>
-		<strong>BERT has a Mouth, and it can Taste: Identifying Points of Interest using BERT with Triplet Loss</strong> by Le Zhang, Richa Rastogi, Yanlin Qu: 
+		<strong>BERT has a Mouth, and it can Taste: Identifying Points of Interest using BERT with Triplet Loss</strong> by Le Zhang, Richa Rastogi, Yanlin Qu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262024.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261451.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Baby Face Generator with CycleGAN</strong> by Shihao Li: 
+		<strong>Baby Face Generator with CycleGAN</strong> by Shihao Li:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26256603.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26258583.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Beyond Vid2Vid: Few-Shot Video Synthesis for Road Scene Generation</strong> by Akash Ashok Modi, Roshan Toopal, Trenton Chang: 
+		<strong>Beyond Vid2Vid: Few-Shot Video Synthesis for Road Scene Generation</strong> by Akash Ashok Modi, Roshan Toopal, Trenton Chang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26258803.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26258675.pdf">poster</a>
 	</li>
 	<li>
-		<strong>CNN Transfer Learning for Visual Guitar Chord Classification</strong> by Eric Zhou, Leon King Tran, Shawn Brian Zhang: 
+		<strong>CNN Transfer Learning for Visual Guitar Chord Classification</strong> by Eric Zhou, Leon King Tran, Shawn Brian Zhang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26255715.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26216240.pdf">poster</a>
 	</li>
 	<li>
-		<strong>CNNs for Bulk Material Defect Detection</strong> by Aakriti Varshney, Akshay Aravindan, Harrison Hoyt Greenwood: 
+		<strong>CNNs for Bulk Material Defect Detection</strong> by Aakriti Varshney, Akshay Aravindan, Harrison Hoyt Greenwood:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26251851.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26249513.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Can drought conditions be used to predict the likelyhood of utility-caused wildfires?</strong> by Anne-Laure Strong: 
+		<strong>Can drought conditions be used to predict the likelyhood of utility-caused wildfires?</strong> by Anne-Laure Strong:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259593.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262303.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Categorization of seen images from brain activity using sequence models</strong> by Arash Jamalian, Faraz Fadavi Akhavan Bonab, Rafi Ayub: 
+		<strong>Categorization of seen images from brain activity using sequence models</strong> by Arash Jamalian, Faraz Fadavi Akhavan Bonab, Rafi Ayub:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26240024.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26240037.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Chest X-Rays Pathology Detection Using Augmented Datasets with GAN and Radiology Reports</strong> by Aditya Kumar Srivastava, Viveak Ravichandiran, Ying Chen: 
+		<strong>Chest X-Rays Pathology Detection Using Augmented Datasets with GAN and Radiology Reports</strong> by Aditya Kumar Srivastava, Viveak Ravichandiran, Ying Chen:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259636.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259690.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Classification of Respiratory Sounds</strong> by Vinita Shivakumar: 
+		<strong>Classification of Respiratory Sounds</strong> by Vinita Shivakumar:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260886.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260838.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Computing Nonlinear Active Subspaces for Highly Parameterized Optimization Problems using Autoencoders</strong> by Gabriele Boncoraglio: 
+		<strong>Computing Nonlinear Active Subspaces for Highly Parameterized Optimization Problems using Autoencoders</strong> by Gabriele Boncoraglio:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26257743.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26190774.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Controllable Real-Time Style Transfer</strong> by Xiangcao Liu, Yuting Sun: 
+		<strong>Controllable Real-Time Style Transfer</strong> by Xiangcao Liu, Yuting Sun:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260134.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260194.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Counting Actor Screen Time in Movies</strong> by Christina Lin, Sam Wai-Yan Wong, Stephany Liu: 
+		<strong>Counting Actor Screen Time in Movies</strong> by Christina Lin, Sam Wai-Yan Wong, Stephany Liu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262324.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262275.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Cutting Down "Fluff" A Twist on Text Summarization</strong> by Gustavo Torres da Silva, Kate Mary Salmon: 
+		<strong>Cutting Down "Fluff" A Twist on Text Summarization</strong> by Gustavo Torres da Silva, Kate Mary Salmon:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259895.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260248.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Dancing Seq2Seq: An Adversarial Approach to Transformer Generative Dialog</strong> by Alan Salimov: 
+		<strong>Dancing Seq2Seq: An Adversarial Approach to Transformer Generative Dialog</strong> by Alan Salimov:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260721.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260478.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep Learning Model for Subsurface Flow Prediction with Multifidelity Data</strong> by Yusuf Nasir: 
+		<strong>Deep Learning Model for Subsurface Flow Prediction with Multifidelity Data</strong> by Yusuf Nasir:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26291969.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26291862.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep Learning Music Generation</strong> by Kinbert Chou, Ryan Dominic Peng: 
+		<strong>Deep Learning Music Generation</strong> by Kinbert Chou, Ryan Dominic Peng:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26258004.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26258154.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep Learning for Efficient Riverine Bathymetry Inversion</strong> by Shima Salimi-Tari, Steven Das: 
+		<strong>Deep Learning for Efficient Riverine Bathymetry Inversion</strong> by Shima Salimi-Tari, Steven Das:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26738640.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26739269.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep Reinforcement Learning Framework for Factor Investing</strong> by Pierre Nowicki: 
+		<strong>Deep Reinforcement Learning Framework for Factor Investing</strong> by Pierre Nowicki:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26251841.pdf">report</a>
 	</li>
 	<li>
-		<strong>Deep Tennis: Mid-Match Tennis Predictions</strong> by DIPIKA BADRI, Kevin Monogue, Sven Lerner: 
+		<strong>Deep Tennis: Mid-Match Tennis Predictions</strong> by DIPIKA BADRI, Kevin Monogue, Sven Lerner:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26249098.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26249058.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep Vein Thrombosis Detectionfrom CT Scans</strong> by Anirudh Rajiv Joshi, Ishan Jay Shah, Rui Liu: 
+		<strong>Deep Vein Thrombosis Detectionfrom CT Scans</strong> by Anirudh Rajiv Joshi, Ishan Jay Shah, Rui Liu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26252384.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26251172.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep learning for bipolar disorder: anticipating manic and depressive episodes</strong> by Shreya Shankar: 
+		<strong>Deep learning for bipolar disorder: anticipating manic and depressive episodes</strong> by Shreya Shankar:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26244597.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26247048.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Deep- Learning Based Modelsfor Wafer</strong> by Jeong Cheol Seo: 
+		<strong>Deep- Learning Based Modelsfor Wafer</strong> by Jeong Cheol Seo:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261124.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261075.pdf">poster</a>
 	</li>
 	<li>
-		<strong>DeepBreath: An Automated Chest X-Ray Diagnostic Tool</strong> by Andrea Lujan Oviedo Buitrago: 
+		<strong>DeepBreath: An Automated Chest X-Ray Diagnostic Tool</strong> by Andrea Lujan Oviedo Buitrago:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26258975.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259020.pdf">poster</a>
 	</li>
 	<li>
-		<strong>DeepDerm: Detection of Cancerous Skin Lesions Through Deep Learning</strong> by Anna Beryl Verwillow, Santosh Kumaran Murugan: 
+		<strong>DeepDerm: Detection of Cancerous Skin Lesions Through Deep Learning</strong> by Anna Beryl Verwillow, Santosh Kumaran Murugan:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261147.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261164.pdf">poster</a>
 	</li>
 	<li>
-		<strong>DeepFX</strong> by Raman Vilkhu: 
+		<strong>DeepFX</strong> by Raman Vilkhu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262018.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262060.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Detecting Release Decade From Song Lyrics</strong> by Joseph Sommer: 
+		<strong>Detecting Release Decade From Song Lyrics</strong> by Joseph Sommer:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26233170.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26233157.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Detecting and Understanding Pneumonia with Deep Learning</strong> by Nikolaos Altiparmakis: 
+		<strong>Detecting and Understanding Pneumonia with Deep Learning</strong> by Nikolaos Altiparmakis:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26238783.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26238597.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Determining familial resemblances from face images</strong> by Kaushik Sah: 
+		<strong>Determining familial resemblances from face images</strong> by Kaushik Sah:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261881.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26310943.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Distinguishing Professional and Amateur Abstract Art Using Convolutional Neural Networks</strong> by Sharman Tan: 
+		<strong>Distinguishing Professional and Amateur Abstract Art Using Convolutional Neural Networks</strong> by Sharman Tan:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26237285.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260973.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Effectof President\'s Tweets on the S&P 500 Index</strong> by Sid Assawaworrarit: 
+		<strong>Effectof President\'s Tweets on the S&P 500 Index</strong> by Sid Assawaworrarit:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26060977.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26060838.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Efficient Sampling of Equilibrium States using Boltzmann Generators</strong> by Jeremy Patrick Binagia, Kevin Jia-Yu Hou, Sean Gregory Friedowitz: 
+		<strong>Efficient Sampling of Equilibrium States using Boltzmann Generators</strong> by Jeremy Patrick Binagia, Kevin Jia-Yu Hou, Sean Gregory Friedowitz:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26257854.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26257992.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Evaluating the Factual Correctness for Abstractive Summarization</strong> by Yuhui Zhang: 
+		<strong>Evaluating the Factual Correctness for Abstractive Summarization</strong> by Yuhui Zhang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260988.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261509.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Everyone could be artist: sketch to style-specified artwork</strong> by Fei Jia, Kefan Wang, Qian Dong: 
+		<strong>Everyone could be artist: sketch to style-specified artwork</strong> by Fei Jia, Kefan Wang, Qian Dong:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261179.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261999.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Face Recognition with Sub-Sampled Images</strong> by ChungChun Wan, Yuxuan Wang: 
+		<strong>Face Recognition with Sub-Sampled Images</strong> by ChungChun Wan, Yuxuan Wang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26224366.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26236640.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Fake News Detection</strong> by Anushya Subbiah, Divya Sudhakar, Kenny Hsu: 
+		<strong>Fake News Detection</strong> by Anushya Subbiah, Divya Sudhakar, Kenny Hsu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26249446.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26249366.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Finding Your Celebrity Look Alike</strong> by Amanda Nicole Jacquez, Chase Simeon Davis: 
+		<strong>Finding Your Celebrity Look Alike</strong> by Amanda Nicole Jacquez, Chase Simeon Davis:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26249078.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26248959.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Finding the Value of Aggressiveness in Autonomous Vehicles</strong> by William David Brannon: 
+		<strong>Finding the Value of Aggressiveness in Autonomous Vehicles</strong> by William David Brannon:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261857.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262278.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Food Image Classification with Convolutional Neural Networks</strong> by Malina Jiang: 
+		<strong>Food Image Classification with Convolutional Neural Networks</strong> by Malina Jiang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26233496.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26234578.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Food Macro Ratio Calculator</strong> by Dongze Li: 
+		<strong>Food Macro Ratio Calculator</strong> by Dongze Li:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26190269.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26162788.pdf">poster</a>
 	</li>
 	<li>
-		<strong>FoodGAN: SuperResolution on Low-Quality Food Images</strong> by Amay Aggarwal, Chinmay Suhrud Patel, Federico Jose Reyes Gomez: 
+		<strong>FoodGAN: SuperResolution on Low-Quality Food Images</strong> by Amay Aggarwal, Chinmay Suhrud Patel, Federico Jose Reyes Gomez:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261709.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261043.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Forest-to-Coast Unpaired Image Translation with Cycle Consistency</strong> by Lydia Maria Tsiverioti, Stelios Rousoglou: 
+		<strong>Forest-to-Coast Unpaired Image Translation with Cycle Consistency</strong> by Lydia Maria Tsiverioti, Stelios Rousoglou:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261171.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261140.pdf">poster</a>
 	</li>
 	<li>
-		<strong>GAN Base 7-Minute Prediction in Stock Market</strong> by Dae Han Han: 
+		<strong>GAN Base 7-Minute Prediction in Stock Market</strong> by Dae Han Han:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260526.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260501.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Generating Cartoon Style Facial Expressions with StackGAN</strong> by Xiaowen Yu, Xiaoyi Li: 
+		<strong>Generating Cartoon Style Facial Expressions with StackGAN</strong> by Xiaowen Yu, Xiaoyi Li:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26242839.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26242819.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Generative Adversarial Network for Stock Market price Prediction</strong> by Ricardo Alberto Carrillo Romero: 
+		<strong>Generative Adversarial Network for Stock Market price Prediction</strong> by Ricardo Alberto Carrillo Romero:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259829.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260998.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Human Emotion Classification & Prediction of the OASIS Image Dataset</strong> by Protip Roy: 
+		<strong>Human Emotion Classification & Prediction of the OASIS Image Dataset</strong> by Protip Roy:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26234558.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259548.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Image Level Forgery Identification and Pixel Level Forgery Localization via a Convolutional Neural Network</strong> by Dean Deng, Yitao Qiu: 
+		<strong>Image Level Forgery Identification and Pixel Level Forgery Localization via a Convolutional Neural Network</strong> by Dean Deng, Yitao Qiu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260910.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26249539.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Improving the Performance of Evolutionary Algorithms via Gradient-Based Initialization</strong> by Andrew James Shoats, Chris Andrew Waites, Matthew Tyler Prelich: 
+		<strong>Improving the Performance of Evolutionary Algorithms via Gradient-Based Initialization</strong> by Andrew James Shoats, Chris Andrew Waites, Matthew Tyler Prelich:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262118.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262079.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Inferring Shading Parameters from Graphically Generated Images</strong> by Anthony Robert Carrington, Madeleine Yip, Ruta Suhas Joshi: 
+		<strong>Inferring Shading Parameters from Graphically Generated Images</strong> by Anthony Robert Carrington, Madeleine Yip, Ruta Suhas Joshi:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26250880.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26250714.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Intracranial Hemorrhage Classification using CNN</strong> by Hyun Joo Lee: 
+		<strong>Intracranial Hemorrhage Classification using CNN</strong> by Hyun Joo Lee:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26248009.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26253596.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Inverting Facial Embeddings with GANs</strong> by Akash Singhal, Edward Benjamin Vendrow: 
+		<strong>Inverting Facial Embeddings with GANs</strong> by Akash Singhal, Edward Benjamin Vendrow:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262086.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261854.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Literary Muzak</strong> by Chuan He, Liang Ping Koh, Qiyin Wu: 
+		<strong>Literary Muzak</strong> by Chuan He, Liang Ping Koh, Qiyin Wu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26362499.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262312.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Literary Style Transfer with Sequence Models and Rejection-Pass Filtering</strong> by Daniel Kharitonov, Guneet Singh Kohli, Yu Fan: 
+		<strong>Literary Style Transfer with Sequence Models and Rejection-Pass Filtering</strong> by Daniel Kharitonov, Guneet Singh Kohli, Yu Fan:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261901.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261339.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Liver Lesion Localization using Deep Convolutional Neural Networks</strong> by Sheun Aluko, Surya Narayanan Hari, Vadim Piccini Yakubenko: 
+		<strong>Liver Lesion Localization using Deep Convolutional Neural Networks</strong> by Sheun Aluko, Surya Narayanan Hari, Vadim Piccini Yakubenko:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26247627.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26251005.pdf">poster</a>
 	</li>
 	<li>
-		<strong>MathBot – A Deep Learning based Elementary School Math Word Problem Solver</strong> by Anish Nayak, Rajeev Patwari, Viswanathan Subramanian: 
+		<strong>MathBot – A Deep Learning based Elementary School Math Word Problem Solver</strong> by Anish Nayak, Rajeev Patwari, Viswanathan Subramanian:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262150.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261393.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Multi-Language Intent Prediction</strong> by Junhua Zhao, Rongbin Li, Yuehao Wu: 
+		<strong>Multi-Language Intent Prediction</strong> by Junhua Zhao, Rongbin Li, Yuehao Wu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26253127.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26250980.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Multi-modal Model for Sentence Level Captioning</strong> by Hikaru Hotta, Tom Pritsky: 
+		<strong>Multi-modal Model for Sentence Level Captioning</strong> by Hikaru Hotta, Tom Pritsky:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260445.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261294.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Music and Instrument Classification using Deep Learning Technics</strong> by Lara Haidar-Ahmad: 
+		<strong>Music and Instrument Classification using Deep Learning Technics</strong> by Lara Haidar-Ahmad:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26225883.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26225864.pdf">poster</a>
 	</li>
 	<li>
-		<strong>NNeural Style Transfer for Understanding How Stylistic Choices Affect Emotional Affect</strong> by Alex Kinneret Weitzman, Phoebe Yao: 
+		<strong>NNeural Style Transfer for Understanding How Stylistic Choices Affect Emotional Affect</strong> by Alex Kinneret Weitzman, Phoebe Yao:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262266.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262287.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Neural Content Moderation</strong> by Guy David Wuollet, Isabella Garcia-Camargo, Martin Amethier: 
+		<strong>Neural Content Moderation</strong> by Guy David Wuollet, Isabella Garcia-Camargo, Martin Amethier:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260925.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260911.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Neural Network Structure for Traffic Forecasting</strong> by Will Zhuk: 
+		<strong>Neural Network Structure for Traffic Forecasting</strong> by Will Zhuk:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259087.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262273.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Neurobiologically Inspired Encoding and Transfer Learning</strong> by George Sivulka: 
+		<strong>Neurobiologically Inspired Encoding and Transfer Learning</strong> by George Sivulka:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26277162.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26279836.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Object Localization of Concentrated Animal Feeding Operations</strong> by Jorge Andres Troncoso, Minnie Ho: 
+		<strong>Object Localization of Concentrated Animal Feeding Operations</strong> by Jorge Andres Troncoso, Minnie Ho:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262163.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261699.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Optimize Robots Physical Design by Parameterization in Deep Reinforcement Learning</strong> by Peide Huang: 
+		<strong>Optimize Robots Physical Design by Parameterization in Deep Reinforcement Learning</strong> by Peide Huang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260067.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260480.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Option Pricing with Deep Learning</strong> by Alexander Xingchen Ke, Andrew Yang: 
+		<strong>Option Pricing with Deep Learning</strong> by Alexander Xingchen Ke, Andrew Yang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26260984.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260929.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Painting Genre Classification</strong> by Soheil Golara: 
+		<strong>Painting Genre Classification</strong> by Soheil Golara:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26180781.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26175908.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Pet Cat Face Verification and Identification</strong> by Adam Daniel Klein: 
+		<strong>Pet Cat Face Verification and Identification</strong> by Adam Daniel Klein:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26251543.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26251592.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Photo to Doodle Generator Using a GAN</strong> by Manu Agarwal, Talbot Morris-Downing: 
+		<strong>Photo to Doodle Generator Using a GAN</strong> by Manu Agarwal, Talbot Morris-Downing:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26254703.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26240092.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Predicting Biological Age and Sex using Spatial Temporal Graph CNN for functional MRI data</strong> by Erick Fidel Siavichay, Soham Uday Gadgil, Sunwoo Kang: 
+		<strong>Predicting Biological Age and Sex using Spatial Temporal Graph CNN for functional MRI data</strong> by Erick Fidel Siavichay, Soham Uday Gadgil, Sunwoo Kang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26254992.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26236702.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Predicting DNA Recombination Attachment Sites</strong> by Josh Curtis Wolff, Matt Durrant, Vinay Sriram: 
+		<strong>Predicting DNA Recombination Attachment Sites</strong> by Josh Curtis Wolff, Matt Durrant, Vinay Sriram:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26256149.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26251501.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Predicting Power and Area for Chip Design</strong> by Kalhan Koul, Kartik Prabhu: 
+		<strong>Predicting Power and Area for Chip Design</strong> by Kalhan Koul, Kartik Prabhu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262134.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262183.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Predicting US Stock Market Movement from Political Tweets</strong> by Brian Anthony Phan Wai, Chenghao Peng: 
+		<strong>Predicting US Stock Market Movement from Political Tweets</strong> by Brian Anthony Phan Wai, Chenghao Peng:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261585.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260450.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Real-Time Object Detection on an Edge Device</strong> by Elias Stein, John Sun, Siyu Liu: 
+		<strong>Real-Time Object Detection on an Edge Device</strong> by Elias Stein, John Sun, Siyu Liu:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261995.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262020.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Retinal Cell Identification from Compressed Signals</strong> by Andrew Wang, Maxwell Bradley Strange, Pumiao Yan: 
+		<strong>Retinal Cell Identification from Compressed Signals</strong> by Andrew Wang, Maxwell Bradley Strange, Pumiao Yan:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26258965.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259267.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Robust 3D Object Tracking in Autonomous Vehicles</strong> by Anthony Galczak, Eric Ryan Chan: 
+		<strong>Robust 3D Object Tracking in Autonomous Vehicles</strong> by Anthony Galczak, Eric Ryan Chan:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26250102.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26242869.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Robust Face Recognition in the Deep Learning Era</strong> by Leo Mehr, Luca Florian Schroeder: 
+		<strong>Robust Face Recognition in the Deep Learning Era</strong> by Leo Mehr, Luca Florian Schroeder:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26242431.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26243265.pdf">poster</a>
 	</li>
 	<li>
-		<strong>SMate: Synthetic Minority Adversarial Technique</strong> by Pablo Martin Pablo Rodriguez Bertorello: 
+		<strong>SMate: Synthetic Minority Adversarial Technique</strong> by Pablo Martin Pablo Rodriguez Bertorello:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261094.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26291752.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Segmentation of Breast Cancer Tumors using Deep Learning</strong> by Eric Tetsuo Matsumoto, Jason Lin: 
+		<strong>Segmentation of Breast Cancer Tumors using Deep Learning</strong> by Eric Tetsuo Matsumoto, Jason Lin:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261233.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261247.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Shallow Cloud Classification in Satellite Images</strong> by Timur Reziapov: 
+		<strong>Shallow Cloud Classification in Satellite Images</strong> by Timur Reziapov:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26250453.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26250375.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Simplifying Grocery Checkout with Deep Learning</strong> by Ajay Ramesh, Jing Ning, Yongfeng Li: 
+		<strong>Simplifying Grocery Checkout with Deep Learning</strong> by Ajay Ramesh, Jing Ning, Yongfeng Li:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26257432.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26232176.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Skin Cancer Recognition via Computer Vision</strong> by Chen Chen, Tao Jia, Yinuo Yao: 
+		<strong>Skin Cancer Recognition via Computer Vision</strong> by Chen Chen, Tao Jia, Yinuo Yao:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26254148.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260737.pdf">poster</a>
 	</li>
 	<li>
-		<strong>State-of-the-art Approaches for Handwriting-based Recognition on Gender and Handedness Using Deep Learning</strong> by Jiangshan Li, Tiancheng Cai, Yanbang Wang: 
+		<strong>State-of-the-art Approaches for Handwriting-based Recognition on Gender and Handedness Using Deep Learning</strong> by Jiangshan Li, Tiancheng Cai, Yanbang Wang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262286.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261783.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Stock Price Volatility Prediction with Long Short-sTerm Memory Neural Networks</strong> by Jason Christopher Sullivan: 
+		<strong>Stock Price Volatility Prediction with Long Short-sTerm Memory Neural Networks</strong> by Jason Christopher Sullivan:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26254244.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26256268.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Temporal Analysis of Regional Sustainability Using CNNs and Satellite Data</strong> by Nikita Namjoshi, Rubi Elydeth Rodriguez Mendoza, Xinyuan Cheng: 
+		<strong>Temporal Analysis of Regional Sustainability Using CNNs and Satellite Data</strong> by Nikita Namjoshi, Rubi Elydeth Rodriguez Mendoza, Xinyuan Cheng:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26257546.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26257511.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Testing BERT Word Prediction Effect on Accuracy in Handwritten Text Recognition</strong> by Anna Claire Widder: 
+		<strong>Testing BERT Word Prediction Effect on Accuracy in Handwritten Text Recognition</strong> by Anna Claire Widder:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26256302.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26256166.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Text Replacement and Generation in Images Using GANs</strong> by Andrew Warren Sharp, Christian Alexander Gabor, Joseph Son: 
+		<strong>Text Replacement and Generation in Images Using GANs</strong> by Andrew Warren Sharp, Christian Alexander Gabor, Joseph Son:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261591.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260329.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Time to Default & Time to Prepayment Estimation Using LSTM and Deep Learning Techniques</strong> by Peter Gordon Drembelas, Vibhor Varun Khar: 
+		<strong>Time to Default & Time to Prepayment Estimation Using LSTM and Deep Learning Techniques</strong> by Peter Gordon Drembelas, Vibhor Varun Khar:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259259.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261964.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Transformer Model for Mathematical Reasoning</strong> by Will Raymond White: 
+		<strong>Transformer Model for Mathematical Reasoning</strong> by Will Raymond White:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26258425.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26258554.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Using EMRs to Predict Patient Outcomes</strong> by Gaurab Banerjee: 
+		<strong>Using EMRs to Predict Patient Outcomes</strong> by Gaurab Banerjee:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261734.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262171.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Visualizing adverse effects of Global Warming on Mountains through CycleGAN</strong> by Gunguk Kim, Troy Lining Shen: 
+		<strong>Visualizing adverse effects of Global Warming on Mountains through CycleGAN</strong> by Gunguk Kim, Troy Lining Shen:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261917.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260496.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Wafer Map Failure Pattern Classification Using Deep Learning</strong> by Chen Lin, Jie GONG, Jie Gong: 
+		<strong>Wafer Map Failure Pattern Classification Using Deep Learning</strong> by Chen Lin, Jie GONG, Jie Gong:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259703.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26259758.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Wafer Topographical Map Interpolation</strong> by Luis Miguel Castaneda: 
+		<strong>Wafer Topographical Map Interpolation</strong> by Luis Miguel Castaneda:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26077811.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26249361.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Waste Object Detection and Classification</strong> by Hrushikesh Narendra Kulkarni, Nandini Kannamangalam Sundara Raman: 
+		<strong>Waste Object Detection and Classification</strong> by Hrushikesh Narendra Kulkarni, Nandini Kannamangalam Sundara Raman:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262187.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262147.pdf">poster</a>
 	</li>
 	<li>
-		<strong>White Christmas: Remaking Augmented Reality Censorship from Black Mirror with Identity-Preserving Instance Segmentation</strong> by Michael Yoomin Lee: 
+		<strong>White Christmas: Remaking Augmented Reality Censorship from Black Mirror with Identity-Preserving Instance Segmentation</strong> by Michael Yoomin Lee:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26262130.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261203.pdf">poster</a>
 	</li>
 	<li>
-		<strong>YouTube-8M Video Understanding</strong> by Kun Huang: 
+		<strong>YouTube-8M Video Understanding</strong> by Kun Huang:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26252777.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26253074.pdf">poster</a>
 	</li>
 	<li>
-		<strong>font-gen: Deep Models for Inferring Alternate Language Sets from Fonts</strong> by Garrick Domalanta Fernandez: 
+		<strong>font-gen: Deep Models for Inferring Alternate Language Sets from Fonts</strong> by Garrick Domalanta Fernandez:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26259019.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26260232.pdf">poster</a>
 	</li>
 	<li>
-		<strong>iSeeBetter: Spatio-Temporal Video Super Resolution using Recurrent-Generative Back-Projection Networks</strong> by Aman Chadha: 
+		<strong>iSeeBetter: Spatio-Temporal Video Super Resolution using Recurrent-Generative Back-Projection Networks</strong> by Aman Chadha:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26219184.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26218627.pdf">poster</a>
 	</li>
 	<li>
-		<strong>predicting NBA Game Outcomes</strong> by Jesse Alexander Rodriguez: 
+		<strong>predicting NBA Game Outcomes</strong> by Jesse Alexander Rodriguez:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26229118.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26229125.pdf">poster</a>
 	</li>
