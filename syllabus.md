@@ -11,7 +11,8 @@ micro_nav: false
 
 ## Announcements
 - Project meeting logistics have been updated. Each group will meet with their TA 3 times throughout the quarter. See the [project page](/project) for details.
-- Poster session is cancelled! See details at the bottom of the syllabus for how to submit the poster and presentation video. In short, the final report will be due Sunday midnight (3/15), and the poster and presentation video are due by Wednesday (3/18) noon.
+- Poster session is cancelled! See details at the bottom of the syllabus for how to submit the poster and presentation video. In short, the final report will be due Sunday midnight (3/15), and the poster and presentation video are due by Wednesday (3/18) noon. For more detail, see the main [piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
+- The Lecture for week 10 will be held remotely! Zoom link: [https://zoom.us/j/4124799084](https://zoom.us/j/4124799084)
 
 
 ## Syllabus
@@ -385,6 +386,7 @@ micro_nav: false
             <td>Lecture&nbsp;10</td>
             <td> 03/10 </td>
             <td>
+                Zoom link: <a href="https://zoom.us/j/4124799084">https://zoom.us/j/4124799084</a>
                 <strong>Topics:</strong>
                 <ul>
                     <li>Class wrap-up</li>
