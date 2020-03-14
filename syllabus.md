@@ -10,7 +10,7 @@ micro_nav: false
 ---
 
 ## Announcements
-- Project meeting logistics have been updated. Each group will meet with their TA 3 times throughout the quarter. See the [project page](/project) for details.
+- The final project is now *optional*. See [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767) for details.
 - Poster session is cancelled! See details at the bottom of the syllabus for how to submit the poster and presentation video. In short, the final report will be due Sunday midnight (3/15), and the poster and presentation video are due by Wednesday (3/18) noon. For more detail, see the main [piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
 
 

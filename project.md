@@ -123,6 +123,8 @@ The milestone will help you make sure you're on track, and should describe what 
 
 ## Poster
 
+**Covid-19 Update**: the poster is optional. Please see [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767).
+
 **Submission Deadline:** {{ site.course.project_timeline.poster_session | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
 The in-person poster session is **cancelled**. [See Piazza post for poster and video submission instructions](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
@@ -137,6 +139,8 @@ Your poster is required to be a 24" by 36" summary of your work. Include diagram
 | **Submission** | Submit on Gradescope.
 
 ## Final Report
+
+**Covid-19 Update**: the poster is optional. Please see [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767).
 
 **Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 

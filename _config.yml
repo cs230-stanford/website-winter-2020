@@ -66,7 +66,7 @@ course:
     project_timeline:
         proposal: 2020-01-22T23:59:00-07:00
         milestone: 2020-02-21T23:59:00-07:00
-        poster_and_report: 2020-03-15T23:59:00-08:00
+        poster_and_report: 2020-03-18T11:59:00-08:00
         poster_session: 03/18 Wednesday 11:59 AM (noon)
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"

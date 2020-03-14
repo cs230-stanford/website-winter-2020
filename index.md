@@ -50,6 +50,8 @@ Students are expected to have the following background:
 Here's more information about the class grade:
 
 #### Breakdown
+UPDATE: due to rapid developments with covid-19, all final project deliverables (poster, report, and video) are now *optional*. Please read [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767) for more details.
+
 Below is the breakdown of the class grade:
  * 40%: Final project
  * 25%: Midterm
